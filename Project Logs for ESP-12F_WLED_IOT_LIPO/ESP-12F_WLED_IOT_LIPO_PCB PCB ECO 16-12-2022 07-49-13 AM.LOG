@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Power Member=LED-Out
+Removed Member From Class: ClassName=Power Member=SupplyIN
+Removed Member From Class: ClassName=Power Member=VIN
+Added Class: Name=HighPower
+Added Class: Name=Signal
+Added Member To Class: ClassName=Power Member=Wire VBAT+
+Added Member To Class: ClassName=Power Member=Wire VCC1
+Added Member To Class: ClassName=Power Member=Wire VDDTP4056

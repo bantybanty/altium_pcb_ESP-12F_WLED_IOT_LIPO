@@ -1,0 +1,111 @@
+Change Component Library : Designator=D1G Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D3A Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=FB1G Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=Q1A Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=Q1G Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=Q2G Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1B Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U2G Old Library=Altium Content Vault New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1F Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C4E Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D1F Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D2A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D4A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J1A Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J1I Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J2I Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J3I Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J4I Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=L1F Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=SW1F Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=SW2F Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U2H Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=Y1G Old Library=Celestial Altium Library - altium_library.DbLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=Q1D Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1C Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1D Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1E Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1F Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1G Old Library=Custom-IC.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U1H Old Library=Custom-IC.SchLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1B Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1D Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C1H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2B Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C2H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3B Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C3H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C4F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C4G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C5E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C5F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C5G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C6F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C6G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=C7G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=JP1A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=JP1C Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=JP1E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=JP2A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=JP3A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1B Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1C Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1D Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R1H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2A Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2B Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2C Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2D Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2E Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R2H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R3C Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R3F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R3G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R3H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R4F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R4G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R4H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R5F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R5G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R5H Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R6F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R6G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R7F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R7G Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R8F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R9F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R10F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R11F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R12F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R13F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=R14F Old Library=Custom.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=H1A Old Library=Custom_Holes.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=H2A Old Library=Custom_Holes.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=H3A Old Library=Custom_Holes.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=H4A Old Library=Custom_Holes.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=IC1F Old Library=ESP8266.SchLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D1C Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D2C Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=D2F Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=F1A Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=F1E Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=F2A Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=J1G Old Library=Footprint-Lib-PhilsLab.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Library : Designator=U3G Old Library=Miscellaneous Connectors.IntLib New Library=ESP-12F_WLED_IOT_LIPO.IntLib

@@ -1,0 +1,58 @@
+Removed Member From Class: ClassName=4_Protection Member=C2E
+Removed Member From Class: ClassName=6_BATT+5V Member=C5F
+Removed Member From Class: ClassName=6_BATT+5V Member=C6F
+Removed Member From Class: ClassName=6_BATT+5V Member=D2F
+Removed Member From Class: ClassName=2_LDO+5V Member=R1D
+Removed Member From Class: ClassName=3_Charging Member=R1D
+Removed Member From Class: ClassName=2_LDO+5V Member=R2D
+Removed Member From Class: ClassName=3_Charging Member=R2D
+Removed Member From Class: ClassName=6_BATT+5V Member=R6F
+Removed Member From Class: ClassName=6_BATT+5V Member=R11F
+Removed Member From Class: ClassName=2_LDO+5V Member=U1C
+Removed Member From Class: ClassName=4_Protection Member=U1E
+Removed Member From Class: ClassName=5_USB-UART Member=U3G
+Removed Member From Class: ClassName=Power Member=NetC4E_2
+Change Component Designator: OldDesignator=C1E NewDesignator=C4E
+Change Component Designator: OldDesignator=C4E NewDesignator=C1E
+Added Pin To Net: NetName=VCC Pin=U1C-8
+Change Net Name : Old Net Name=NetC4E_2 New Net Name=NetC1E_2
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO0" already exists
+Add Net: Net with name "GPIO2" already exists
+Add Net: Net with name "LED_CLOCK_OUT" already exists
+Add Net: Net with name "LED_DATA_OUT" already exists
+Add Net: Net with name "nRST" already exists
+Add Net: Net with name "TXD_RXD_N" already exists
+Add Net: Net with name "TXD_RXD_N" already exists
+Add Net: Net with name "TXD_RXD_P" already exists
+Add Net: Net with name "TXD_RXD_P" already exists
+Add Net: Net with name "VBat+" already exists
+Added Member To Class: ClassName=4_Protection Member=Component C1D 100nF
+Added Member To Class: ClassName=6_BATT+5V Member=Component C1F 22uF
+Added Member To Class: ClassName=1_Power Member=Component C2A 0.1uf
+Added Member To Class: ClassName=6_BATT+5V Member=Component C2F 22uF
+Added Member To Class: ClassName=6_ESP12_F Member=Component C3F 470pF
+Added Member To Class: ClassName=6_ESP12_F Member=Component C4F 100uF
+Added Member To Class: ClassName=6_BATT+5V Member=Component D1F SS34B-HF
+Added Member To Class: ClassName=1_Power Member=Component F2A 10A
+Added Member To Class: ClassName=1_Power Member=Component R1A 100k
+Added Member To Class: ClassName=2_LDO+5V Member=Component R1B 82K
+Added Member To Class: ClassName=3_Charging Member=Component R1C 1K
+Added Member To Class: ClassName=6_BATT+5V Member=Component R1F 7.5K
+Added Member To Class: ClassName=1_Power Member=Component R2A 5k
+Added Member To Class: ClassName=2_LDO+5V Member=Component R2B 50K
+Added Member To Class: ClassName=3_Charging Member=Component R2C 1K
+Added Member To Class: ClassName=6_BATT+5V Member=Component R2F 1K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R3F 0
+Added Member To Class: ClassName=6_ESP12_F Member=Component R4F 470
+Added Member To Class: ClassName=6_ESP12_F Member=Component R5F 470
+Added Member To Class: ClassName=6_ESP12_F Member=Component R7F 12K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R8F 12K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R9F 12K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R10F 12K
+Added Member To Class: ClassName=2_LDO+5V Member=Component U1B AMS1117MP-ADJ
+Added Member To Class: ClassName=4_Protection Member=Component U1D DW01A
+Added Member To Class: ClassName=5_USB-UART Member=Component U1G CH340G
+Added Member To Class: ClassName=7_Temp Member=Component U2G DS18B20Z
+Added Member To Class: ClassName=Power Member=Wire NetC1E_2
+Added Member To Class: ClassName=Power Member=Wire VCC

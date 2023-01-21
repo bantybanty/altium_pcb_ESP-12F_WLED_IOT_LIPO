@@ -1,0 +1,31 @@
+Added Component: Designator=J2A(TE 282837-2)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282837&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282837-2/2187973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "13.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Interlocking (Side)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "21-06-2022 03:00:23 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "282837-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.200" (5.08mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A113320-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge"; Value = "16-28 AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2A-1
+Added Pin To Net: NetName=LED-Out Pin=J2A-2
+Added Class: Name=J2A_Nets
+Added Member To Class: ClassName=1_Power Member=Component J2A 282837-2

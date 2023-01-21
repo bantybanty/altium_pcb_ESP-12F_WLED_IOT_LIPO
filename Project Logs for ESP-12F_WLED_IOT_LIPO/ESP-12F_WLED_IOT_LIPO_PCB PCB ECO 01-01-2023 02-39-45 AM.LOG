@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Power Member=+3.3V
+Added Pin To Net: NetName=+3.3V Pin=R7G-1
+Added Pin To Net: NetName=+3.3V Pin=U2G-3
+Added Pin To Net: NetName=+3.3V Pin=U3G-3
+Change Net Name : Old Net Name=+3.3V New Net Name=+3V3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Added Member To Class: ClassName=Power Member=Wire +3V3

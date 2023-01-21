@@ -1,0 +1,5 @@
+Added Component: Designator=JP1B(SolderJumper_Single)
+Added Pin To Net: NetName=VDDTP4056 Pin=JP1B-1
+Added Pin To Net: NetName=VCC Pin=JP1B-2
+Added Member To Class: ClassName=5_USB-UART Member=Component C5E 22pF
+Added Member To Class: ClassName=2_Charging Member=Component JP1B Solder Jumper

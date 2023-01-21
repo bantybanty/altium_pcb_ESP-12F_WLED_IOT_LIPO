@@ -1,0 +1,292 @@
+Removed Pin From Net: NetName=VIN Pin=C3A-1
+Removed Pin From Net: NetName=GND Pin=C3A-2
+Removed Pin From Net: NetName=GND Pin=C4D-2
+Removed Pin From Net: NetName=VCC Pin=D1A-2
+Removed Pin From Net: NetName=VCC Pin=D2A-2
+Removed Pin From Net: NetName=VIN Pin=F1A-1
+Removed Pin From Net: NetName=VDDTP4056 Pin=F1B-1
+Removed Pin From Net: NetName=VBUS_IN Pin=F1E-1
+Removed Pin From Net: NetName=LDO+5V+3.3V Pin=F2D-2
+Removed Member From Class: ClassName=2_Charging Member=F1B
+Removed Member From Class: ClassName=5_USB-UART Member=F1E
+Removed Member From Class: ClassName=4_LDO Member=F2D
+Removed Member From Class: ClassName=Power Member=LDO+5V+3.3V
+Removed Member From Class: ClassName=Power Member=LDO-OUT-1117
+Removed Member From Class: ClassName=Power Member=LDO-TO-1117
+Removed Member From Class: ClassName=Power Member=NetC6E_2
+Removed Member From Class: ClassName=Power Member=NetF1A_2
+Removed Member From Class: ClassName=Power Member=NetF1B_2
+Change Component Footprint: Designator=C3A Old Footprint=1411-3528 New Footprint=C-0603
+Change Component Footprint: Designator=C4D Old Footprint=1411-3528 New Footprint=C-0603
+Change Component Footprint: Designator=C2A Old Footprint=1411-3528 New Footprint=CAP TH ALUM ELEC D10.00mm S5.00mm H17.50mm
+Change Component Footprint: Designator=C5A Old Footprint=CAP ALSMD 6.6MM H7.7MM New Footprint=CAP TH ALUM ELEC D8.00mm S3.50mm H13.00mm
+Change Component Footprint: Designator=C1A Old Footprint=CAP ALSMD 6.6MM H7.7MM New Footprint=CAP TH ALUM ELEC D10.00mm S5.00mm H17.50mm
+Change Component Comment : Designator=C2A Old Comment=47uf New Comment=1000µF/16V
+Change Component Comment : Designator=C3A Old Comment=100uf New Comment=10uF
+Change Component Comment : Designator=C5A Old Comment=100µF New Comment=1000µF/10V
+Change Component Comment : Designator=C1A Old Comment=100µF New Comment=1000µF/16V
+Change Component Comment : Designator=F1D Old Comment=500mA New Comment=1A
+Change Component Comment : Designator=C4D Old Comment=C-1411 (3528 Metric) New Comment=10uF
+Change component parameters: Designator = "C1A" ("C1A"); Footprint = "CAP ALSMD 6.6MM H7.7MM"; UniqueID = "\OKKTMCOO" ("\OKKTMCOO")
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1000µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1015.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/panasonic-electronic-components/EEU-FK1C102/P124274-ND/9921223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.689" (17.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "49 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "02-09-2020 01:31:24 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.197" (5.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "4000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EEU-FK1C102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "11906"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.83"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "1.24A @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "930mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.394" Dia (10.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P124274-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1000µF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2A" ("C2A"); Footprint = "1411-3528"; UniqueID = "\QBPVYITP" ("\QBPVYITP")
+Change component parameters (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1000µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1015.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/panasonic-electronic-components/EEU-FK1C102/P124274-ND/9921223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.689" (17.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "49 mOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "02-09-2020 01:31:24 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.197" (5.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "4000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "EEU-FK1C102"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "11906"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.83"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "1.24A @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "930mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.394" Dia (10.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "P124274-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1000µF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3A" ("C3A"); Footprint = "1411-3528"; UniqueID = "\XRWPKZGN" ("\XRWPKZGN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4D" ("C4D"); Footprint = "1411-3528"; UniqueID = "\GIEKKLTV" ("\GIEKKLTV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5A" ("C5A"); Footprint = "CAP ALSMD 6.6MM H7.7MM"; UniqueID = "\SVERKERZ" ("\SVERKERZ")
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1000µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "http://www.rubycon.co.jp/en/catalog/e_pdfs/aluminum/e_pk.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/rubycon/10PK1000MEFC8X11.5/1189-1050-ND/3133980"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.512" (13.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "07-09-2020 05:24:54 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Spacing"; Value = "0.138" (3.50mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "2000 Hrs @ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Rubycon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "10PK1000MEFC8X11.5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "23938"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.34"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "792mA @ 10kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "660mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "PK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.315" Dia (8.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1189-1050-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1000µF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C4F(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5F(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7D(CAP AL TH D8 L3.5 H12.5)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C75.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ECA-0JHG102/245108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.492" (12.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "27-12-2022 10:20:14 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "0.138" (3.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp."; Value = "1000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial, Can"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ECA-0JHG102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "7190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "437 mA @ 100 kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "380 mA @ 120 Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "NHG-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.315" Dia (8.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P5509-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "1000 µF/6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "6.3 V"; VariantName = "[No Variations]"
+Added Component: Designator=F3A(FUSE_1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2A(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3A(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5D(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3A-1
+Added Pin To Net: NetName=VIN Pin=C3A-2
+Added Pin To Net: NetName=GND Pin=C4D-1
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=C4D-2
+Added Pin To Net: NetName=GND Pin=C4F-1
+Added Pin To Net: NetName=+3.3V Pin=C4F-2
+Added Pin To Net: NetName=GND Pin=C5F-1
+Added Pin To Net: NetName=+3.3V Pin=C5F-2
+Added Pin To Net: NetName=VBUS_IN Pin=C6E-2
+Added Pin To Net: NetName=GND Pin=C7D-2
+Added Pin To Net: NetName=VCC Pin=F1A-2
+Added Pin To Net: NetName=VBUS_IN Pin=FB1E-1
+Added Pin To Net: NetName=VIN Pin=JP1A-1
+Added Pin To Net: NetName=VDDTP4056 Pin=JP1B-2
+Added Pin To Net: NetName=SupplyIN Pin=R2A-1
+Added Pin To Net: NetName=GND Pin=R2A-2
+Added Pin To Net: NetName=VIN Pin=R3A-1
+Added Pin To Net: NetName=GND Pin=R3A-2
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=R3D-2
+Added Pin To Net: NetName=GND Pin=R5D-2
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=U2D-2
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=U2D-4
+Change Net Name : Old Net Name=LDO+5V+3.3V New Net Name=LDO+5V OR +3.3V
+Added Pin To Net: NetName=LDO-1117 Pin=C5D-2
+Added Pin To Net: NetName=LDO-1117 Pin=F3A-2
+Added Pin To Net: NetName=LDO-1117 Pin=U2D-3
+Added Net: Name=LDO-1117
+Added Pin To Net: NetName=NetC7D_1 Pin=C7D-1
+Added Pin To Net: NetName=NetC7D_1 Pin=F1D-1
+Added Pin To Net: NetName=NetC7D_1 Pin=JP2D-2
+Added Pin To Net: NetName=NetC7D_1 Pin=R5D-1
+Added Net: Name=NetC7D_1
+Added Pin To Net: NetName=NetD1A_2 Pin=D1A-2
+Added Pin To Net: NetName=NetD1A_2 Pin=D2A-2
+Added Pin To Net: NetName=NetD1A_2 Pin=F1A-1
+Added Net: Name=NetD1A_2
+Added Pin To Net: NetName=NetF3A_1 Pin=F3A-1
+Added Pin To Net: NetName=NetF3A_1 Pin=JP1A-3
+Added Net: Name=NetF3A_1
+Added Member To Class: ClassName=6_ESP12_F Member=Component C4F 1uf
+Added Member To Class: ClassName=6_ESP12_F Member=Component C5F 0.1uf
+Added Member To Class: ClassName=4_LDO Member=Component C7D 1000 µF/6.3V
+Added Member To Class: ClassName=1_Power Member=Component F3A 1.5A
+Added Member To Class: ClassName=1_Power Member=Component R2A 5k
+Added Member To Class: ClassName=1_Power Member=Component R3A 5k
+Added Member To Class: ClassName=4_LDO Member=Component R5D 5k
+Added Member To Class: ClassName=Power Member=Wire LDO+5V OR +3.3V
+Added Member To Class: ClassName=Power Member=Wire LDO-1117
+Added Member To Class: ClassName=Power Member=Wire NetC7D_1
+Added Member To Class: ClassName=Power Member=Wire NetD1A_2
+Added Member To Class: ClassName=Power Member=Wire NetF3A_1
+Added Member To Class: ClassName=Power Member=Wire VIN

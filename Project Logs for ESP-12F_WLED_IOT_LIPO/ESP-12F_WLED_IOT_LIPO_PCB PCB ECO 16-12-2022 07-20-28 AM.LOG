@@ -1,0 +1,36 @@
+Added Component: Designator=JP1A(SMT-JUMPER_3_1-NC_TRACE_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_TRACE_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Added Component: Designator=JP2A(SMT-JUMPER_3_1-NC_TRACE_NO-SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_NO-SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_TRACE_NO-SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Added Component: Designator=JP3A(SMT-JUMPER_3_1-NC_PASTE_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Added Component: Designator=JP4A(SMT-JUMPER_3_1-NC_PASTE_NO-SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_NO-SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_NO-SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Added Class: Name=JP1A_Nets
+Added Class: Name=JP2A_Nets
+Added Class: Name=JP3A_Nets
+Added Class: Name=JP4A_Nets
+Added Member To Class: ClassName=1_Power Member=Component JP1A JUMPER-SMT_3_1-NC_TRACE_SILK
+Added Member To Class: ClassName=1_Power Member=Component JP2A JUMPER-SMT_3_1-NC_TRACE_NO-SILK
+Added Member To Class: ClassName=1_Power Member=Component JP3A JUMPER-SMT_3_1-NC_PASTE_SILK
+Added Member To Class: ClassName=1_Power Member=Component JP4A JUMPER-SMT_3_1-NC_PASTE_NO-SILK

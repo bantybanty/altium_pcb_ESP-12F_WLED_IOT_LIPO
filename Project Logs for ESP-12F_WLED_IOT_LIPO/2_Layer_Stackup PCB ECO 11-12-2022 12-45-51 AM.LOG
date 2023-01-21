@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=VCC Pin=D1C-A
+Removed Pin From Net: NetName=VCC Pin=D2C-A
+Removed Pin From Net: NetName=ST Pin=R1C-1
+Removed Pin From Net: NetName=CH Pin=R2C-1
+Removed Pin From Net: NetName=GND Pin=R3C-1
+Removed Pin From Net: NetName=PROG Pin=R3C-2
+Removed Pin From Net: NetName=GND Pin=U1C-1
+Removed Pin From Net: NetName=PROG Pin=U1C-2
+Removed Pin From Net: NetName=GND Pin=U1C-3
+Removed Pin From Net: NetName=VCC Pin=U1C-4
+Removed Pin From Net: NetName=VBAT+ Pin=U1C-5
+Removed Pin From Net: NetName=ST Pin=U1C-6
+Removed Pin From Net: NetName=CH Pin=U1C-7
+Removed Pin From Net: NetName=VCC Pin=U1C-8
+Removed Pin From Net: NetName=GND-ISO Pin=U1C-9
+Removed Member From Class: ClassName=2_Charging Member=D1C
+Removed Member From Class: ClassName=2_Charging Member=D2C
+Removed Member From Class: ClassName=2_Charging Member=R1C
+Removed Member From Class: ClassName=2_Charging Member=R2C
+Removed Member From Class: ClassName=2_Charging Member=R3C
+Removed Member From Class: ClassName=2_Charging Member=U1C
+Added Component: Designator=D1B(LED_0603_RED)
+Added Component: Designator=D2B(LED_0603_GREEN)
+Added Component: Designator=R1B(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2B(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3B(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1B(TP4056)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1B-A
+Added Pin To Net: NetName=VCC Pin=D2B-A
+Added Pin To Net: NetName=ST Pin=R1B-2
+Added Pin To Net: NetName=CH Pin=R2B-2
+Added Pin To Net: NetName=GND Pin=R3B-1
+Added Pin To Net: NetName=PROG Pin=R3B-2
+Added Pin To Net: NetName=GND Pin=U1B-1
+Added Pin To Net: NetName=PROG Pin=U1B-2
+Added Pin To Net: NetName=GND Pin=U1B-3
+Added Pin To Net: NetName=VCC Pin=U1B-4
+Added Pin To Net: NetName=VBAT+ Pin=U1B-5
+Added Pin To Net: NetName=ST Pin=U1B-6
+Added Pin To Net: NetName=CH Pin=U1B-7
+Added Pin To Net: NetName=VCC Pin=U1B-8
+Added Pin To Net: NetName=GND-ISO Pin=U1B-9
+Added Pin To Net: NetName=NetD1B_K Pin=D1B-K
+Added Pin To Net: NetName=NetD1B_K Pin=R2B-1
+Added Net: Name=NetD1B_K
+Added Pin To Net: NetName=NetD2B_K Pin=D2B-K
+Added Pin To Net: NetName=NetD2B_K Pin=R1B-1
+Added Net: Name=NetD2B_K
+Added Member To Class: ClassName=1_Power Member=Component C2A 100nF
+Added Member To Class: ClassName=1_Power Member=Component D1A 1N5819HW-7-F
+Added Member To Class: ClassName=2_Charging Member=Component D1B RED
+Added Member To Class: ClassName=2_Charging Member=Component D2B GREEN
+Added Member To Class: ClassName=2_Charging Member=Component R1B 1K
+Added Member To Class: ClassName=2_Charging Member=Component R2B 1K
+Added Member To Class: ClassName=2_Charging Member=Component R3B 2K
+Added Member To Class: ClassName=2_Charging Member=Component U1B TP4056

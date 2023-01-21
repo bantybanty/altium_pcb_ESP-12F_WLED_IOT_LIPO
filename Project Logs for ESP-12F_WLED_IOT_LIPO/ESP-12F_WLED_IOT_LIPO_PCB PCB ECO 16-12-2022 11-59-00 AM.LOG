@@ -1,0 +1,6 @@
+Added Component: Designator=JP1A(Solder_Pad_3_Pin_NC_Medium)
+Added Pin To Net: NetName=NetF1A_2 Pin=JP1A-1
+Added Pin To Net: NetName=NetD1A_1 Pin=JP1A-2
+Added Pin To Net: NetName=LDO-TO-1117 Pin=JP1A-3
+Added Member To Class: ClassName=1_Power Member=Component JP1A Solder Pad
+Added Member To Class: ClassName=2_Charging Member=Component JP1B Solder Pad

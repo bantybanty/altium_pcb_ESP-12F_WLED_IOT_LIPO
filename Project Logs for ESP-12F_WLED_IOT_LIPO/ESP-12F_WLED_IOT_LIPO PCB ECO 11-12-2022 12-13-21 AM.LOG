@@ -1,0 +1,48 @@
+Removed Member From Class: ClassName=3_Protection Member=R?
+Removed Member From Class: ClassName=4_Buck_Boost Member=R?
+Removed Member From Class: ClassName=3_Protection Member=U?
+Removed Member From Class: ClassName=U?_Nets Member=+3.3V
+Change Component Designator: OldDesignator=C? NewDesignator=C1A
+Change Component Designator: OldDesignator=C? NewDesignator=C2A
+Change Component Designator: OldDesignator=D? NewDesignator=D1A
+Change Component Designator: OldDesignator=D? NewDesignator=D2A
+Change Component Designator: OldDesignator=D? NewDesignator=D3A
+Change Component Designator: OldDesignator=F? NewDesignator=F1A
+Change Component Designator: OldDesignator=J? NewDesignator=J1A
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1A
+Change Component Designator: OldDesignator=M? NewDesignator=M1A
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1A
+Change Component Designator: OldDesignator=R? NewDesignator=R1A
+Change Component Designator: OldDesignator=R? NewDesignator=R1D
+Change Component Designator: OldDesignator=R? NewDesignator=R2D
+Change Component Designator: OldDesignator=U? NewDesignator=U1D
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD3A_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1A_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2A_2
+Change Class Name : Old Net Name=C?_Nets New Net Name=C2A_Nets
+Change Class Name : Old Net Name=J?_Nets New Net Name=J1A_Nets
+Change Class Name : Old Net Name=M?_Nets New Net Name=M1A_Nets
+Change Class Name : Old Net Name=U?_Nets New Net Name=R2D_Nets
+Added Class: Name=C1A_Nets
+Added Class: Name=D1A_Nets
+Added Class: Name=D2A_Nets
+Added Class: Name=D3A_Nets
+Added Class: Name=F1A_Nets
+Added Class: Name=JP1A_Nets
+Added Class: Name=Q1A_Nets
+Added Class: Name=R1A_Nets
+Added Member To Class: ClassName=1_Power Member=Component C2A 100nF
+Added Member To Class: ClassName=1_Power Member=Component D1A 1N5819HW-7-F
+Added Member To Class: ClassName=1_Power Member=Component D3A BZX84C12-7-F
+Added Member To Class: ClassName=3_Protection Member=Component R1D (R1C) 1K
+Added Member To Class: ClassName=4_Buck_Boost Member=Component R1D 82K
+Added Member To Class: ClassName=3_Protection Member=Component R2D (R2C) 100R
+Added Member To Class: ClassName=4_Buck_Boost Member=Component R2D 47k
+Added Member To Class: ClassName=3_Protection Member=Component U1D (U1C) DW01A
+Added Member To Class: ClassName=R1D_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=U1D_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=U1D_Nets Member=Wire GND
+Added Member To Class: ClassName=R1D_Nets Member=Wire NetC1E_2
+Added Member To Class: ClassName=U1D_Nets Member=Wire NetC1E_2
+Added Member To Class: ClassName=U1D_Nets Member=Wire VBAT+
+Added Member To Class: ClassName=R2D_Nets Member=Wire VCC1

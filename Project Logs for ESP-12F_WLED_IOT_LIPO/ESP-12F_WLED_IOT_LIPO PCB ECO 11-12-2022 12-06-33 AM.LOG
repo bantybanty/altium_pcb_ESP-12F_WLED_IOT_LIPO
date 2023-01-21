@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=VCC Pin=D2A-2
+Removed Pin From Net: NetName=VIN Pin=F1A-1
+Removed Pin From Net: NetName=VCC Pin=JP1A-2
+Removed Pin From Net: NetName=VBAT+ Pin=U1E-1
+Removed Pin From Net: NetName=GND Pin=U1E-2
+Removed Pin From Net: NetName=VBAT+ Pin=U1E-3
+Removed Pin From Net: NetName=NetC1E_2 Pin=U1E-4
+Removed Member From Class: ClassName=4_Boost Member=F1E
+Removed Member From Class: ClassName=4_Boost Member=U1E
+Removed Member From Class: ClassName=D1A_Nets Member=NetD1A_1
+Removed Member From Class: ClassName=F1A_Nets Member=NetD1A_1
+Removed Member From Class: ClassName=U1E_Nets Member=NetF1E_1
+Removed Member From Class: ClassName=D2A_Nets Member=VCC
+Removed Member From Class: ClassName=JP1A_Nets Member=VCC
+Removed Member From Class: ClassName=C2E_Nets Member=VDD3V3
+Removed Member From Class: ClassName=F1A_Nets Member=VIN
+Added Component: Designator=R1D(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2D(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1D(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SPX3819M5-L-3-3/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/spx3819m5-l-3-3tr/maxlinear-inc?region=asia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.exar.com/ds/spx3819.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "MaxLinear, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPX3819M5-L-3-3/TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "701-SPX3819M5-L-33TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/MaxLinear/SPX3819M5-L-3-3-TR?qs=S%2FCBhQS5rCp1Bb7a%252BD%2FCBQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D1A-1
+Added Pin To Net: NetName=VCC Pin=F1A-2
+Added Pin To Net: NetName=NetC1E_2 Pin=R1D-1
+Added Pin To Net: NetName=NetC1E_2 Pin=R2D-1
+Added Pin To Net: NetName=GND Pin=R2D-2
+Added Pin To Net: NetName=VBAT+ Pin=U1D-1
+Added Pin To Net: NetName=GND Pin=U1D-2
+Added Pin To Net: NetName=VBAT+ Pin=U1D-3
+Added Pin To Net: NetName=NetC1E_2 Pin=U1D-4
+Added Pin To Net: NetName=+3.3V Pin=C2E-2
+Added Pin To Net: NetName=+3.3V Pin=R1D-2
+Added Pin To Net: NetName=+3.3V Pin=U1D-5
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=NetD2A_2 Pin=D2A-2
+Added Pin To Net: NetName=NetD2A_2 Pin=F1A-1
+Added Pin To Net: NetName=NetD2A_2 Pin=JP1A-2
+Added Net: Name=NetD2A_2
+Change Class Name : Old Net Name=U1E_Nets New Net Name=R2D_Nets
+Added Member To Class: ClassName=4_Boost Member=Component R1D 82K
+Added Member To Class: ClassName=4_Boost Member=Component R2D 47k
+Added Member To Class: ClassName=4_Boost Member=Component U1D SPX3819M5-L-3-3_TR
+Added Member To Class: ClassName=C2E_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=R1D_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=U1D_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=U1D_Nets Member=Wire GND
+Added Member To Class: ClassName=R1D_Nets Member=Wire NetC1E_2
+Added Member To Class: ClassName=U1D_Nets Member=Wire NetC1E_2
+Added Member To Class: ClassName=D2A_Nets Member=Wire NetD2A_2
+Added Member To Class: ClassName=F1A_Nets Member=Wire NetD2A_2
+Added Member To Class: ClassName=JP1A_Nets Member=Wire NetD2A_2
+Added Member To Class: ClassName=U1D_Nets Member=Wire VBAT+
+Added Member To Class: ClassName=R2D_Nets Member=Wire VCC1
+Added Member To Class: ClassName=F1A_Nets Member=Wire VCC
+Added Member To Class: ClassName=D1A_Nets Member=Wire VIN

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=BATT+3V3 Pin=R1E-2
+Removed Pin From Net: NetName=GND Pin=R3E-2
+Removed Pin From Net: NetName=SPX_IN Pin=U1E-1
+Removed Pin From Net: NetName=GND Pin=U1E-2
+Removed Pin From Net: NetName=SPX_IN Pin=U1E-3
+Removed Pin From Net: NetName=BATT+3V3 Pin=U1E-5
+Removed Member From Class: ClassName=5_BATT+3V3 Member=R1E
+Removed Member From Class: ClassName=5_BATT+3V3 Member=R3E
+Removed Member From Class: ClassName=Power Member=ADJ/BYP
+Change Component Footprint: Designator=U1E Old Footprint=SOT95P280X145-5N New Footprint=NCP186AMX330TAG
+Change Component Comment : Designator=C1E Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C3E Old Comment=10uF New Comment=1uF
+Change Component Comment : Designator=C2E Old Comment=470pF New Comment=10nF
+Change Component Comment : Designator=U1E Old Comment=SPX3819M5-L-3-3_TR New Comment=NCP186BMX330TAG
+Change component parameters: Designator = "U1E" ("U1E"); Footprint = "SOT95P280X145-5N"; UniqueID = "\RRZRQFAF" ("\RRZRQFAF")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NCP186-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NCP186BMX330TAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-NCP186BMX330TAG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/onsemi/NCP186BMX330TAG?qs=tCMd4XlZ%2FiDuLBXmI4EY0w%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C5E(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BATT+3V3 Pin=C2E-2
+Added Pin To Net: NetName=GND Pin=C5E-1
+Added Pin To Net: NetName=BATT+3V3 Pin=C5E-2
+Added Pin To Net: NetName=BATT+3V3 Pin=U1E-1
+Added Pin To Net: NetName=BATT+3V3 Pin=U1E-2
+Added Pin To Net: NetName=BATT+3V3 Pin=U1E-4
+Added Pin To Net: NetName=GND Pin=U1E-5
+Added Pin To Net: NetName=SPX_IN Pin=U1E-6
+Added Pin To Net: NetName=SPX_IN Pin=U1E-7
+Added Pin To Net: NetName=SPX_IN Pin=U1E-8
+Added Pin To Net: NetName=GND Pin=U1E-9
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component C5E 100nF

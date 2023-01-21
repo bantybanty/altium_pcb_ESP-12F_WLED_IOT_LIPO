@@ -1,0 +1,5 @@
+Change Class Name : Old Net Name=2-Power New Net Name=1_Power
+Change Class Name : Old Net Name=2-USB-UART New Net Name=2_USB-UART
+Change Room Name: Old Name=2-USB-UART New Name=2_USB-UART
+Change Room Scope: Old Scope=InComponentClass('2-USB-UART') New Scope=InComponentClass('2_USB-UART')
+Added Room: Name=1_Power

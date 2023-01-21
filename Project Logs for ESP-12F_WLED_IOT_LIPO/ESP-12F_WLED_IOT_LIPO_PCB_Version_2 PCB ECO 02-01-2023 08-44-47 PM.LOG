@@ -1,0 +1,37 @@
+Change Component DesignItemId : Designator=D1F Old DesignItemId=SS34B-HF New DesignItemId=SS34-HF
+Change Component Footprint: Designator=D1F Old Footprint=DO214AA SMB New Footprint=DO214AC SMA
+Change Component Comment : Designator=D1F Old Comment=SS34B-HF New Comment=SS34-HF
+Change Component Description : Designator=D1F Old Description=DIODE SCHOTTKY 3A 40V SMB New Description=DIODE SCHOTTKY 40V 3A DO214AC
+Change component parameters: Designator = "D1F" ("D1F"); Footprint = "DO214AA SMB"; UniqueID = "\LXIQVQBH" ("\LXIQVQBH")
+Change component parameters (AddParameter): Name = "Capacitance @ Vr, F"; Value = "450pF @ 4V, 1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.comchiptech.com/admin/files/product/20190514101641.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/comchip-technology/SS34-HF/10279693"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "500 µA @ 40 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "01-01-2023 08:55:34 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature - Junction"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SS34-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "2138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "DO-214AC (SMA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "641-2115-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "550 mV @ 3 A"; VariantName = "[No Variations]"
+Added Component: Designator=JP1E(Solder_Pad_3_Pin_NC_Medium)
+Added Pin To Net: NetName=VBAT+ Pin=JP1E-1
+Added Pin To Net: NetName=SPX_IN Pin=JP1E-2
+Added Pin To Net: NetName=VCC Pin=JP1E-3
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component JP1E Solder Pad

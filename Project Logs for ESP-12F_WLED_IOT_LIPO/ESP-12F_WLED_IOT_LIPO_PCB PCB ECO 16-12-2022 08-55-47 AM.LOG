@@ -1,0 +1,8 @@
+Added Component: Designator=JP1D(SMT-JUMPER_3_1-NC_TRACE_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_TRACE_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_TRACE"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=4_LDO Member=Component JP1D JUMPER-SMT_3_1-NC_TRACE_SILK

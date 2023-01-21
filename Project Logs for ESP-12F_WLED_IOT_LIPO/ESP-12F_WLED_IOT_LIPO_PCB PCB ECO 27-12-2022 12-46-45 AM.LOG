@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=GND Pin=D2F-1
+Removed Pin From Net: NetName=LDO+5V+3.3V Pin=D2F-2
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=D2F-3
+Removed Pin From Net: NetName=+3.3V Pin=Q1F-1
+Removed Pin From Net: NetName=LED_DATA_IN Pin=Q1F-2
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=Q1F-3
+Removed Pin From Net: NetName=LED_DATA_IN Pin=R12F-1
+Removed Pin From Net: NetName=+3.3V Pin=R12F-2
+Removed Pin From Net: NetName=LED_DATA_OUT Pin=R13F-1
+Removed Pin From Net: NetName=LDO+5V+3.3V Pin=R13F-2
+Removed Member From Class: ClassName=6_ESP12_F Member=D2F
+Removed Member From Class: ClassName=6_ESP12_F Member=Q1F
+Removed Member From Class: ClassName=6_ESP12_F Member=R13F
+Removed Member From Class: ClassName=Signal Member=LED_DATA_IN
+Change Component Comment : Designator=R12F Old Comment=10K New Comment=33R
+Added Component: Designator=C3F(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP2F(Solder_Pad_2_Pin_NC_Small)
+Added Component: Designator=U1F(ON SEMI SC70-5  419AC-01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/on-semiconductor/NC7SZ125P5X/NC7SZ125P5XTR-ND/673366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output High, Low"; Value = "32mA, 32mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "5-TSSOP, SC-70-5, SOT-353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "09-12-2019 01:20:32 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Buffer, Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "3-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "5-TSSOP, SC-70-5, SOT-353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NC7SZ125P5X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "7SZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SC-70-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "NC7SZ125P5XTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "1.65V ~ 5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3F-1
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=C3F-2
+Added Pin To Net: NetName=LED_DATA_OUT Pin=JP2F-2
+Added Pin To Net: NetName=LED_DATA_OUT Pin=R12F-2
+Added Pin To Net: NetName=GND Pin=U1F-1
+Added Pin To Net: NetName=LED_DATA_IN Pin=U1F-2
+Added Pin To Net: NetName=GND Pin=U1F-3
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=U1F-5
+Added Pin To Net: NetName=NetJP2F_1 Pin=JP2F-1
+Added Pin To Net: NetName=NetJP2F_1 Pin=R12F-1
+Added Pin To Net: NetName=NetJP2F_1 Pin=U1F-4
+Added Net: Name=NetJP2F_1
+Added Member To Class: ClassName=6_ESP12_F Member=Component C3F 0.1uF
+Added Member To Class: ClassName=6_ESP12_F Member=Component JP2F Solder Pad
+Added Member To Class: ClassName=6_ESP12_F Member=Component U1F NC7SZ125P5X
+Added Member To Class: ClassName=Signal Member=Wire NetJP2F_1

@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=H1A Old DesignItemId=MOUNT-PAD-ROUND2.8 New DesignItemId=MOUNT-PAD-ROUND2.4
+Change Component DesignItemId : Designator=H2A Old DesignItemId=MOUNT-PAD-ROUND2.8 New DesignItemId=MOUNT-PAD-ROUND2.4
+Change Component DesignItemId : Designator=H3A Old DesignItemId=MOUNT-PAD-ROUND2.8 New DesignItemId=MOUNT-PAD-ROUND2.4
+Change Component DesignItemId : Designator=H4A Old DesignItemId=MOUNT-PAD-ROUND2.8 New DesignItemId=MOUNT-PAD-ROUND2.4
+Change Component Footprint: Designator=H1A Old Footprint=2,8-PAD New Footprint=2,4-PAD
+Change Component Footprint: Designator=H2A Old Footprint=2,8-PAD New Footprint=2,4-PAD
+Change Component Footprint: Designator=H3A Old Footprint=2,8-PAD New Footprint=2,4-PAD
+Change Component Footprint: Designator=H4A Old Footprint=2,8-PAD New Footprint=2,4-PAD

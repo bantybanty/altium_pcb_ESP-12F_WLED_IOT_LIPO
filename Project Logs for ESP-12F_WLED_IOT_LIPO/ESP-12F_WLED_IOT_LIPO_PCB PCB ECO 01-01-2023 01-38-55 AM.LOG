@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Power Member=SupplyOUT
+Added Pin To Net: NetName=GND Pin=C1E-1
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component C1E 10uF
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component C2E 470pF
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component C3E 10uF
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component C4E 1000 µF/6.3V
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component R1E 82K
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component R2E 5k
+Added Member To Class: ClassName=5_BATT+3V3 Member=Component R3E 50k
+Added Member To Class: ClassName=Power Member=Wire VCC

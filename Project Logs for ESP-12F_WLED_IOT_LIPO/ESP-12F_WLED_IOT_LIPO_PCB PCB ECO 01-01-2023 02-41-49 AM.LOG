@@ -1,0 +1,4 @@
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=LED_OUT Pin=J1I-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Red
+Added Member To Class: ClassName=Power Member=Wire +3V3

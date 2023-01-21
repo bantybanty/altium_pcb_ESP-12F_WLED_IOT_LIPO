@@ -1,0 +1,24 @@
+Added Component: Designator=IC1F(ESP8266 ESP-12-F)
+Added Pin To Net: NetName=nRST Pin=IC1F-1
+Added Pin To Net: NetName=ADC Pin=IC1F-2
+Added Pin To Net: NetName=EN Pin=IC1F-3
+Added Pin To Net: NetName=GPIO16 Pin=IC1F-4
+Added Pin To Net: NetName=GPIO14 Pin=IC1F-5
+Added Pin To Net: NetName=GPIO12 Pin=IC1F-6
+Added Pin To Net: NetName=GPIO13 Pin=IC1F-7
+Added Pin To Net: NetName=+3V3 Pin=IC1F-8
+Added Pin To Net: NetName=GPIO11 Pin=IC1F-9
+Added Pin To Net: NetName=GPIO7 Pin=IC1F-10
+Added Pin To Net: NetName=GPIO9 Pin=IC1F-11
+Added Pin To Net: NetName=GPIO10 Pin=IC1F-12
+Added Pin To Net: NetName=GPIO8 Pin=IC1F-13
+Added Pin To Net: NetName=GPIO6 Pin=IC1F-14
+Added Pin To Net: NetName=GND Pin=IC1F-15
+Added Pin To Net: NetName=GPIO15 Pin=IC1F-16
+Added Pin To Net: NetName=GPIO2 Pin=IC1F-17
+Added Pin To Net: NetName=GPIO0 Pin=IC1F-18
+Added Pin To Net: NetName=GPIO4 Pin=IC1F-19
+Added Pin To Net: NetName=GPIO5 Pin=IC1F-20
+Added Pin To Net: NetName=TXD_RXD_P Pin=IC1F-21
+Added Pin To Net: NetName=TXD_RXD_N Pin=IC1F-22
+Added Member To Class: ClassName=6_ESP12_F Member=Component IC1F ESP8266 ESP-12-F

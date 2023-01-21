@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=VBUS Pin=F1E-2
+Added Component: Designator=C6E(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7E(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1E(SMTC-SOT23-6_V)
+Add component (AddParameter): Name = "Capacitance Value"; Value = "5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage"; Value = "17.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clamping Voltage (Max)"; Value = "12.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Quad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/8029/srv05-4-8029973.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jan-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Direction Type"; Value = "Uni-Directional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current (Max)"; Value = "5uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semtech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.semtech.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55Cto125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Classification"; Value = "Military"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max Deg. C"; Value = "125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min Deg. C"; Value = "-55C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "6-Pin Small Outline Transistor, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Current"; Value = "12A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Pulse Power Dissipation"; Value = "300W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Uni-Directional"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Depth (mm)"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Height (mm)"; Value = "1.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Length (mm)"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hardened"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Stand-off Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suppressor Type"; Value = "DiodeArrays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current (It)"; Value = "1mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage (Max)"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=FB1E(FP-BLM21-0_2-t0_85-e0_5-IPC_A)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance (DCR)"; Value = "190mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance-Max"; Value = "250mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "600mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Lines"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "BLM21B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "25%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DIODES SOT-23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/assets/Datasheets/ds30144.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/diodes-incorporated/BSS138-7-F/BSS138-FDICT-ND/717843"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25°C"; Value = "200mA (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drive Voltage (Max Rds On,  Min Rds On)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) (Max) @ Vds"; Value = "50pF @ 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "19-09-2022 02:00:14 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "BSS138-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation (Max)"; Value = "300mW (Ta)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "3.5Ohm @ 220mA, 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BSS138-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "MOSFET (Metal Oxide)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs (Max)"; Value = "±20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vgs(th) (Max) @ Id"; Value = "1.5V @ 250µA"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6E-1
+Added Pin To Net: NetName=GND Pin=C7E-1
+Added Pin To Net: NetName=VBUS Pin=C7E-2
+Added Pin To Net: NetName=USB_2.0_P Pin=D1E-1
+Added Pin To Net: NetName=GND Pin=D1E-2
+Added Pin To Net: NetName=USB_2.0_N Pin=D1E-3
+Added Pin To Net: NetName=VBUS Pin=D1E-5
+Added Pin To Net: NetName=VBUS Pin=FB1E-2
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Added Pin To Net: NetName=+3.3V Pin=Q1-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=High_Level Pin=Q1-3
+Added Pin To Net: NetName=High_Level Pin=R2-1
+Added Net: Name=High_Level
+Added Pin To Net: NetName=Low_Level Pin=Q1-2
+Added Pin To Net: NetName=Low_Level Pin=R1-1
+Added Net: Name=Low_Level
+Added Pin To Net: NetName=NetC6E_2 Pin=C6E-2
+Added Pin To Net: NetName=NetC6E_2 Pin=F1E-2
+Added Pin To Net: NetName=NetC6E_2 Pin=FB1E-1
+Added Net: Name=NetC6E_2
+Added Class: Name=6_ESP12_F
+Added Member To Class: ClassName=5_USB-UART Member=Component C6E 10nF
+Added Member To Class: ClassName=5_USB-UART Member=Component C7E 100nf
+Added Member To Class: ClassName=5_USB-UART Member=Component D1E SRV05-4.TCT
+Added Member To Class: ClassName=5_USB-UART Member=Component FB1E 500mA,100mhz,600ohm
+Added Room: Name=6_ESP12_F

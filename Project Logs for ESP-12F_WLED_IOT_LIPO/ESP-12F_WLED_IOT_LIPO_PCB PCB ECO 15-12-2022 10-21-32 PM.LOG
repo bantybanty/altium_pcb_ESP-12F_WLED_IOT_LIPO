@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=J1A-1
+Removed Pin From Net: NetName=SupplyIN Pin=J1A-2
+Removed Pin From Net: NetName=GND Pin=J1B-A1B12
+Removed Pin From Net: NetName=NetF1E_1 Pin=J1B-A4B9
+Removed Pin From Net: NetName=GND Pin=J1B-B1A12
+Removed Pin From Net: NetName=NetF1E_1 Pin=J1B-B4A9
+Removed Pin From Net: NetName=GND Pin=J1B-SH
+Removed Pin From Net: NetName=GND Pin=J1B-SH
+Removed Pin From Net: NetName=GND Pin=J1B-SH
+Removed Pin From Net: NetName=GND Pin=J1B-SH
+Removed Member From Class: ClassName=5_USB-UART Member=J1B
+Added Component: Designator=J1E(USB4510-03-1-A)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "USB4510-03-1-A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SupplyIN Pin=J1A-1
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=GND Pin=J1E-A1B12
+Added Pin To Net: NetName=NetF1E_1 Pin=J1E-A4B9
+Added Pin To Net: NetName=GND Pin=J1E-B1A12
+Added Pin To Net: NetName=NetF1E_1 Pin=J1E-B4A9
+Added Pin To Net: NetName=GND Pin=J1E-SH
+Added Pin To Net: NetName=GND Pin=J1E-SH
+Added Pin To Net: NetName=GND Pin=J1E-SH
+Added Pin To Net: NetName=GND Pin=J1E-SH
+Added Class: Name=J1E_Nets
+Added Member To Class: ClassName=5_USB-UART Member=Component J1E USB4510-03-1-A

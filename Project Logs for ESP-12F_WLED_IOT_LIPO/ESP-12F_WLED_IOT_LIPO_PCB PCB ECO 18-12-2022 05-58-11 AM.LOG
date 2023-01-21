@@ -1,0 +1,5 @@
+Added Component: Designator=IC1(ESP8266 ESP-12-F)
+Added Pin To Net: NetName=+3.3V Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-15
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Added Member To Class: ClassName=6_ESP12_F Member=Component IC1 ESP8266 ESP-12-F

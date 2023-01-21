@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=NetR4F_1 Pin=S1F-1
+Removed Pin From Net: NetName=GND Pin=S1F-2
+Removed Pin From Net: NetName=NetR1F_1 Pin=S2F-1
+Removed Pin From Net: NetName=GND Pin=S2F-2
+Removed Member From Class: ClassName=6_ESP12_F Member=S1F
+Removed Member From Class: ClassName=6_ESP12_F Member=S2F
+Change Component Comment : Designator=R3B Old Comment=2K New Comment=1.2K
+Added Component: Designator=SW1F(TE FSM4JSMA)
+Add component (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/FSM4JSMASTR/5343806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A @ 24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "19-09-2022 02:02:57 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity ALCOSWITCH Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outline"; Value = "6.00mm x 6.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FSM4JSMASTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FSMJSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "450-2141-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Added Component: Designator=SW2F(TE FSM4JSMA)
+Add component (AddParameter): Name = "Actuator Height off PCB, Vertical"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Orientation"; Value = "Top Actuated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1308111-1_SWITCHES_CORE_PROGRAM_CATALOG&DocType=CS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-alcoswitch-switches/FSM4JSMASTR/5343806"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Rating @ Voltage"; Value = "0.05A @ 24VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "19-09-2022 02:02:57 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity ALCOSWITCH Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outline"; Value = "6.00mm x 6.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FSM4JSMASTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "FSMJSMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "450-2141-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1F-1
+Added Pin To Net: NetName=GND Pin=SW1F-2
+Added Pin To Net: NetName=NetR4F_1 Pin=SW1F-3
+Added Pin To Net: NetName=NetR4F_1 Pin=SW1F-4
+Added Pin To Net: NetName=GND Pin=SW2F-1
+Added Pin To Net: NetName=GND Pin=SW2F-2
+Added Pin To Net: NetName=NetR1F_1 Pin=SW2F-3
+Added Pin To Net: NetName=NetR1F_1 Pin=SW2F-4
+Added Class: Name=CRYSTAL
+Added Class: Name=UART
+Added Class: Name=USB_DATA
+Added Member To Class: ClassName=6_ESP12_F Member=Component SW1F FSM4JSMASTR
+Added Member To Class: ClassName=6_ESP12_F Member=Component SW2F FSM4JSMASTR
+Add Class: Class already exists: USB
+Change Class Name : Old Net Name=USB New Net Name=DIFF_PAIR

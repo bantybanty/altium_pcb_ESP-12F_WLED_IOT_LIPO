@@ -1,0 +1,19 @@
+Change Component Parameter Library Name in C3F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C4F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C5F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C6F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in D2F Old=Footprint-Lib-PhilsLab.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in IC1F Old=ESP8266.SchLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R3F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R4F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R5F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R6F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R7F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R8F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R9F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R10F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R11F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R12F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R13F Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in SW1F Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in SW2F Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib

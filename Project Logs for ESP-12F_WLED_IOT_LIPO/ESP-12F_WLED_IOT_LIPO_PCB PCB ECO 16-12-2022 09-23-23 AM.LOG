@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=4_LDO Member=JP2D
+Change Component Footprint: Designator=JP1D Old Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK New Footprint=Solder_Pad_3_Pin_NC_Medium
+Change Component Comment : Designator=JP1D Old Comment=JUMPER-SMT_3_1-NC_PASTE_SILK New Comment=Solder Pad
+Change Component Kind : Designator=JP1D Old Kind=Jumper New Kind=Standard
+Change component parameters: Designator = "JP1D" ("JP1D"); Footprint = "SMT-JUMPER_3_1-NC_PASTE_SILK"; UniqueID = "\FTFICZDK" ("\FTFICZDK")
+Added Pin To Net: NetName=VBAT+ Pin=JP1D-1
+Added Pin To Net: NetName=NetC3D_2 Pin=JP1D-2
+Added Pin To Net: NetName=VCC Pin=JP1D-3

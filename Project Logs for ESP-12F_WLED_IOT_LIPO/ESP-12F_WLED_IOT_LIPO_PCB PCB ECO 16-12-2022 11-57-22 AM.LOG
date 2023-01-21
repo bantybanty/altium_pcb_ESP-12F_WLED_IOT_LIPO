@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=VBAT+ Pin=JP1D-1
+Removed Pin From Net: NetName=NetC3D_2 Pin=JP1D-2
+Removed Pin From Net: NetName=VCC Pin=JP1D-3
+Removed Member From Class: ClassName=1_Power Member=JP1A
+Removed Member From Class: ClassName=2_Charging Member=JP1B
+Removed Member From Class: ClassName=4_LDO Member=JP1D
+Added Component: Designator=JP?(Solder_Pad_3_Pin_NC_Medium)
+Added Component: Designator=JP?(Solder_Pad_3_Pin_NC_Medium)
+Added Component: Designator=JP?(Solder_Pad_3_Pin_NC_Medium)
+Added Component: Designator=JP?(Solder_Pad_3_Pin_NC_Medium)
+Added Pin To Net: NetName=LDO+3.3V Pin=JP?-1
+Added Pin To Net: NetName=NetF1A_2 Pin=JP?-1
+Added Pin To Net: NetName=VBAT+ Pin=JP?-1
+Added Pin To Net: NetName=VCC Pin=JP?-1
+Added Pin To Net: NetName=NetC3D_2 Pin=JP?-2
+Added Pin To Net: NetName=NetD1A_1 Pin=JP?-2
+Added Pin To Net: NetName=NetF1B_2 Pin=JP?-2
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=JP?-3
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=JP?-3
+Added Pin To Net: NetName=LDO-TO-1117 Pin=JP?-3
+Added Pin To Net: NetName=VCC Pin=JP?-3
+Added Pin To Net: NetName=NetF1D_1 Pin=F1D-1
+Added Pin To Net: NetName=NetF1D_1 Pin=JP?-2
+Added Net: Name=NetF1D_1
+Added Member To Class: ClassName=1_Power Member=Component JP? Solder Pad
+Added Member To Class: ClassName=2_Charging Member=Component JP? Solder Pad
+Added Member To Class: ClassName=4_LDO Member=Component JP? Solder Pad
+Added Member To Class: ClassName=4_LDO Member=Component JP? Solder Pad

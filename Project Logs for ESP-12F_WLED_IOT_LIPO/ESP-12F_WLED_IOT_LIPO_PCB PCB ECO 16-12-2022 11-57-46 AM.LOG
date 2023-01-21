@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=1_Power Member=JP?
+Removed Member From Class: ClassName=4_LDO Member=JP?
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1A
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1B
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1D
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2D
+Added Member To Class: ClassName=1_Power Member=Component JP1A Solder Pad
+Added Member To Class: ClassName=4_LDO Member=Component JP1D Solder Pad
+Added Member To Class: ClassName=4_LDO Member=Component JP2D Solder Pad

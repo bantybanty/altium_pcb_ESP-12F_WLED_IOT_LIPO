@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Signal Member=ESP8266_DMA_TTL
+Removed Member From Class: ClassName=Signal Member=ESP8266_SPI_CLOCK_TTL
+Removed Member From Class: ClassName=Signal Member=ESP8266_SPI_DATA_TTL
+Removed Member From Class: ClassName=Signal Member=ESP8266_UART0_TTL
+Removed Member From Class: ClassName=Signal Member=ESP8266_UART1_TTL
+Removed Member From Class: ClassName=Signal Member=LED_OUT_1
+Removed Member From Class: ClassName=Signal Member=LED_OUT_2_C
+Removed Member From Class: ClassName=Signal Member=LED_OUT_2_D
+Removed Member From Class: ClassName=Signal Member=LED_OUT_3_C
+Removed Member From Class: ClassName=Signal Member=LED_OUT_3_D
+Added Class: Name=Signal_50ohm

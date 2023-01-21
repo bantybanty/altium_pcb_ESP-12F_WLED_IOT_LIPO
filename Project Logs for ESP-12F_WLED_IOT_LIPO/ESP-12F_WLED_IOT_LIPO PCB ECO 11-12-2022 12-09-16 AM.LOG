@@ -1,0 +1,43 @@
+Removed Member From Class: ClassName=4_Boost Member=R1D
+Removed Member From Class: ClassName=4_Boost Member=R2D
+Removed Member From Class: ClassName=U1D_Nets Member=+3.3V
+Removed Member From Class: ClassName=R1D_Nets Member=CS
+Removed Member From Class: ClassName=U1D_Nets Member=GND
+Removed Member From Class: ClassName=U1D_Nets Member=NetC1E_2
+Removed Member From Class: ClassName=U1D_Nets Member=VBAT+
+Removed Member From Class: ClassName=R2D_Nets Member=VCC1
+Change Component Designator: OldDesignator=C1A NewDesignator=C?
+Change Component Designator: OldDesignator=C2A NewDesignator=C?
+Change Component Designator: OldDesignator=D1A NewDesignator=D?
+Change Component Designator: OldDesignator=D2A NewDesignator=D?
+Change Component Designator: OldDesignator=D3A NewDesignator=D?
+Change Component Designator: OldDesignator=F1A NewDesignator=F?
+Change Component Designator: OldDesignator=J1A NewDesignator=J?
+Change Component Designator: OldDesignator=JP1A NewDesignator=JP?
+Change Component Designator: OldDesignator=M1A NewDesignator=M?
+Change Component Designator: OldDesignator=Q1A NewDesignator=Q?
+Change Component Designator: OldDesignator=R1A NewDesignator=R?
+Change Component Designator: OldDesignator=R1D NewDesignator=R?
+Change Component Designator: OldDesignator=R2D NewDesignator=R?
+Change Component Designator: OldDesignator=U1D NewDesignator=U?
+Change Net Name : Old Net Name=NetD1A_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD2A_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetD3A_1 New Net Name=NetD?_1
+Change Class Name : Old Net Name=4_Boost New Net Name=4_Buck_Boost
+Change Class Name : Old Net Name=C2A_Nets New Net Name=C?_Nets
+Change Class Name : Old Net Name=J1A_Nets New Net Name=J?_Nets
+Change Class Name : Old Net Name=M1A_Nets New Net Name=M?_Nets
+Change Class Name : Old Net Name=R1D_Nets New Net Name=R?_Nets
+Change Class Name : Old Net Name=R2D_Nets New Net Name=U?_Nets
+Added Class: Name=D?_Nets
+Added Class: Name=F?_Nets
+Added Class: Name=JP?_Nets
+Added Class: Name=Q?_Nets
+Added Class: Name=R1D_Nets
+Added Class: Name=R2D_Nets
+Added Member To Class: ClassName=4_Buck_Boost Member=Component R? 47k
+Added Member To Class: ClassName=4_Buck_Boost Member=Component R? 82K
+Added Member To Class: ClassName=U?_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=R?_Nets Member=Wire NetD?_1
+Change Room Name: Old Name=4_Boost New Name=4_Buck_Boost
+Change Room Scope: Old Scope=InComponentClass('4_Boost') New Scope=InComponentClass('4_Buck_Boost')

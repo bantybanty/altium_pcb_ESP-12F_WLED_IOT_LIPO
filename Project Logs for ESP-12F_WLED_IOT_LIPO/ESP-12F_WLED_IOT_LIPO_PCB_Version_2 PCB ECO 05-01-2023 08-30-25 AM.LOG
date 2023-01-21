@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=TXD_RXD_N Pin=U1H-2
+Removed Pin From Net: NetName=RX_LED_TTL Pin=U1H-3
+Removed Pin From Net: NetName=TXD_RXD_P Pin=U1H-5
+Removed Pin From Net: NetName=TX_LED_TTL Pin=U1H-6
+Added Pin To Net: NetName=TXD_RXD_P Pin=U1H-2
+Added Pin To Net: NetName=TX_LED_TTL Pin=U1H-3
+Added Pin To Net: NetName=TXD_RXD_N Pin=U1H-5
+Added Pin To Net: NetName=RX_LED_TTL Pin=U1H-6

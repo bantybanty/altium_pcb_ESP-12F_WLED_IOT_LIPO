@@ -1,0 +1,4 @@
+Change Component Parameter Library Name in J1I Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in J2I Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in J3I Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in J4I Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib

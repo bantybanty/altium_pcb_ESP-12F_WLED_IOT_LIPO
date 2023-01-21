@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=GND Pin=C1A-1
+Removed Pin From Net: NetName=VIN Pin=C1A-2
+Removed Pin From Net: NetName=GND Pin=C2A-1
+Removed Pin From Net: NetName=VIN Pin=C2A-2
+Removed Member From Class: ClassName=C1A_Nets Member=VIN
+Change Component Footprint: Designator=C2A Old Footprint=C-0603 New Footprint=1411-3528
+Change Component Footprint: Designator=C1A Old Footprint=C-0603 New Footprint=CAP ALSMD 6.6MM H7.7MM
+Change Component Comment : Designator=C1A Old Comment=22uF New Comment=100µF
+Change Component Comment : Designator=C2A Old Comment=100nF New Comment=47uf
+Change component parameters: Designator = "C1A" ("C1A"); Footprint = "C-0603"; UniqueID = "\QFRUQPUC" ("\QFRUQPUC")
+Change component parameters (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink1url"; Value = "http://nichicon-us.com/english/products/pdfs/e-ucz.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "componentlink2url"; Value = "http://digikey.com/product-detail/en/nichicon/UCZ1E101MCL6GS/493-7024-1-ND/3758445"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "450mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.276" (7.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "lastupdated"; Value = "02-09-2020 01:18:43 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "2000 Hrs @ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "manufacturer"; Value = "Nichicon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "UCZ1E101MCL6GS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "partid"; Value = "9132"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "price"; Value = "0.29"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ High Frequency"; Value = "197mA @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "98.5mA @ 120Hz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "series"; Value = "UCZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.248" Dia (6.30mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "493-7024-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface Mount Land Size"; Value = "0.260" L x 0.260" W (6.60mm x 6.60mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "100µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2A" ("C2A"); Footprint = "C-0603"; UniqueID = "\EXTQHODQ" ("\EXTQHODQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "T495B106K025ATE750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1411 KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T495B106K025ATE750/KEMET/view-part/1680496/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3A(1411-3528)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "T495B106K025ATE750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1411 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/T495B106K025ATE750/KEMET/view-part/1680496/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4A(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SupplyIN Pin=C1A-1
+Added Pin To Net: NetName=GND Pin=C1A-2
+Added Pin To Net: NetName=VIN Pin=C2A-1
+Added Pin To Net: NetName=GND Pin=C2A-2
+Added Pin To Net: NetName=VIN Pin=C3A-1
+Added Pin To Net: NetName=GND Pin=C3A-2
+Added Pin To Net: NetName=GND Pin=C4A-1
+Added Pin To Net: NetName=VIN Pin=C4A-2
+Added Class: Name=C3A_Nets
+Added Class: Name=C4A_Nets
+Added Member To Class: ClassName=1_Power Member=Component C3A 100uf
+Added Member To Class: ClassName=1_Power Member=Component C4A 0.1uf
+Added Member To Class: ClassName=C1A_Nets Member=Wire SupplyIN

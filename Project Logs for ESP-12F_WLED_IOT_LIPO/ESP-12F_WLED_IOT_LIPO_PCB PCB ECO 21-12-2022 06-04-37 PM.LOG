@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=LDO+5V+3.3V Pin=D2F-1
+Change Component Footprint: Designator=D2F Old Footprint=DO214AC SMA New Footprint=INF-SOT23_N
+Change Component Comment : Designator=D2F Old Comment=1N4007 SMD New Comment=BAV99
+Change Managed Component Library Link : Designator=D2F Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=69D32DDE-2C4D-49BA-8330-FBF015907127 Old RevisionGUID= New RevisionGUID=6FB5941D-8016-4494-9754-3C855DCF5AA8
+Change component parameters: Designator = "D2F" ("D2F"); Footprint = "DO214AC SMA"; UniqueID = "\UDXEOBTO" ("\UDXEOBTO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/bav99series.pdf?folderId=db3a30431400ef6801141b5844e103ea&fileId=db3a30431400ef6801141c1b237d042f"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/smbta14_mmbta14.pdf?folderId=db3a30431441fb5d011445c30f210183&fileId=db3a30431441fb5d011445ef0201018c"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Small Outline Transistor Package, 1.3 x 2.9 mm Body, 0.95 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Apr-08"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "BAV99"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RevisionNote"; Value = "Re-Activated Devices"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2F-1
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=D2F-2
+Added Pin To Net: NetName=LED_DATA_OUT Pin=D2F-3
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=R13F-2
+Added Member To Class: ClassName=6_ESP12_F Member=Component R7F 12K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R9F 12K
+Added Member To Class: ClassName=6_ESP12_F Member=Component R10F 220K

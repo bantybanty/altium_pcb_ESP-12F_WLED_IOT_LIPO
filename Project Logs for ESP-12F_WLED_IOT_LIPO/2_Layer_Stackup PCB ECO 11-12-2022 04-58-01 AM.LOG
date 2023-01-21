@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C4E
+Change Component Designator: OldDesignator=C? NewDesignator=C5E
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1E
+Change Class Name : Old Net Name=C?_Nets New Net Name=Y1E_Nets
+Added Class: Name=C4E_Nets
+Added Class: Name=C5E_Nets
+Added Member To Class: ClassName=5_USB-UART Member=Component C4E 22pF

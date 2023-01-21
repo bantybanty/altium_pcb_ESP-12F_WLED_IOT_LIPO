@@ -1,0 +1,3 @@
+Change Component Parameter Library Name in R7G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in U2G Old=Altium Content Vault New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in U3G Old=Miscellaneous Connectors.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib

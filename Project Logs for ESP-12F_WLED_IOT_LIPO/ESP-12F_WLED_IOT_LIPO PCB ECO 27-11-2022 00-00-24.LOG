@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=C1A NewDesignator=C4A
+Change Component Designator: OldDesignator=C2A NewDesignator=C5A
+Change Component Designator: OldDesignator=C3A NewDesignator=C6A
+Change Component Designator: OldDesignator=C4A NewDesignator=C1A
+Change Component Designator: OldDesignator=C5A NewDesignator=C2A
+Change Component Designator: OldDesignator=C6A NewDesignator=C3A
+Change Component Designator: OldDesignator=F1A NewDesignator=F2A
+Change Component Designator: OldDesignator=F2A NewDesignator=F1A
+Change Component Designator: OldDesignator=U1A NewDesignator=U3A
+Change Component Designator: OldDesignator=U2A NewDesignator=U1A
+Change Component Designator: OldDesignator=U3A NewDesignator=U2A
+Added Pin To Net: NetName=GND Pin=U1A-9
+Added Pin To Net: NetName=NetC4A_2 Pin=C4A-2
+Added Pin To Net: NetName=NetC4A_2 Pin=U3A-4
+Added Net: Name=NetC4A_2
+Added Pin To Net: NetName=NetF2A_1 Pin=F2A-1
+Added Pin To Net: NetName=NetF2A_1 Pin=U3A-5
+Added Net: Name=NetF2A_1
+Change Class Name : Old Net Name=C2A_Nets New Net Name=C5A_Nets
+Change Class Name : Old Net Name=C3A_Nets New Net Name=C6A_Nets
+Change Class Name : Old Net Name=C4A_Nets New Net Name=C2A_Nets
+Change Class Name : Old Net Name=C5A_Nets New Net Name=C1A_Nets
+Change Class Name : Old Net Name=C6A_Nets New Net Name=C3A_Nets
+Change Class Name : Old Net Name=F2A_Nets New Net Name=F1A_Nets
+Change Class Name : Old Net Name=U2A_Nets New Net Name=U1A_Nets
+Change Class Name : Old Net Name=U3A_Nets New Net Name=U2A_Nets
+Added Class: Name=C4A_Nets
+Added Class: Name=F2A_Nets
+Added Class: Name=U3A_Nets
+Added Member To Class: ClassName=1_Power Member=Component C1A 22uF
+Added Member To Class: ClassName=1_Power Member=Component C2A 100nF
+Added Member To Class: ClassName=1_Power Member=Component C3A 100nF
+Added Member To Class: ClassName=1_Power Member=Component C4A 470pF
+Added Member To Class: ClassName=1_Power Member=Component C5A 10uF
+Added Member To Class: ClassName=1_Power Member=Component C6A 1uF
+Added Member To Class: ClassName=1_Power Member=Component D1A 1N5819HW-7-F
+Added Member To Class: ClassName=1_Power Member=Component D2A 1N5819HW-7-F
+Added Member To Class: ClassName=1_Power Member=Component D3A BZX84C12-7-F
+Added Member To Class: ClassName=1_Power Member=Component D4A RED
+Added Member To Class: ClassName=1_Power Member=Component D5A GREEN
+Added Member To Class: ClassName=1_Power Member=Component F1A 3413.0216.22
+Added Member To Class: ClassName=1_Power Member=Component F2A 3413.0213.22
+Added Member To Class: ClassName=1_Power Member=Component J1A 691214110002
+Added Member To Class: ClassName=2_USB-UART Member=Component J1B USB4510-03-1-A
+Added Member To Class: ClassName=1_Power Member=Component J2A B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=1_Power Member=Component JP1A Solder Jumper
+Added Member To Class: ClassName=1_Power Member=Component M1A 3568
+Added Member To Class: ClassName=1_Power Member=Component Q1A FDD6637
+Added Member To Class: ClassName=1_Power Member=Component Q2A !value
+Added Member To Class: ClassName=1_Power Member=Component R1A 100k
+Added Member To Class: ClassName=1_Power Member=Component R2A 1K
+Added Member To Class: ClassName=1_Power Member=Component R3A 100R
+Added Member To Class: ClassName=1_Power Member=Component R4A 1k
+Added Member To Class: ClassName=1_Power Member=Component R5A 1k
+Added Member To Class: ClassName=1_Power Member=Component R6A 2K
+Added Member To Class: ClassName=1_Power Member=Component U1A TP4056
+Added Member To Class: ClassName=1_Power Member=Component U2A DW01A
+Added Member To Class: ClassName=1_Power Member=Component U3A SPX3819M5-L-3-3_TR

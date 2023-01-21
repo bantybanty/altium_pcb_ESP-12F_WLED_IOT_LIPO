@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=IC1-15
+Change Component Library : Designator=IC1 Old Library=ESP8266.IntLib New Library=ESP8266.SchLib
+Add Pin To Net: Unknown Pin: Pin J2A-3

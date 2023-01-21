@@ -1,0 +1,77 @@
+Removed Member From Class: ClassName=R2E_Nets Member=RXD0
+Removed Member From Class: ClassName=R1E_Nets Member=RXD
+Removed Member From Class: ClassName=U1E_Nets Member=RXD
+Removed Member From Class: ClassName=R1E_Nets Member=TXD0
+Removed Member From Class: ClassName=R2E_Nets Member=TXD
+Removed Member From Class: ClassName=U1E_Nets Member=TXD
+Removed Member From Class: ClassName=C3E_Nets Member=XI
+Removed Member From Class: ClassName=U1E_Nets Member=XI
+Removed Member From Class: ClassName=Y1E_Nets Member=XI
+Removed Member From Class: ClassName=C5E_Nets Member=XO
+Removed Member From Class: ClassName=U1E_Nets Member=XO
+Removed Member From Class: ClassName=Y1E_Nets Member=XO
+Change Component Footprint: Designator=JP1A Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Footprint: Designator=JP1B Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Footprint: Designator=JP1D Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Footprint: Designator=JP2D Old Footprint=SMT-JUMPER_3_1-NC_TRACE_SILK New Footprint=SMT-JUMPER_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP1A Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP1B Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP1D Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change Component Comment : Designator=JP2D Old Comment=JUMPER-SMT_3_1-NC_TRACE_SILK New Comment=JUMPER-SMT_3_1-NC_PASTE_SILK
+Change component parameters: Designator = "JP1A" ("JP1A"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\DCMNZPLU" ("\DCMNZPLU")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1B" ("JP1B"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\JUEGYELW" ("\JUEGYELW")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1D" ("JP1D"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\FEUGNCMR" ("\FEUGNCMR")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP2D" ("JP2D"); Footprint = "SMT-JUMPER_3_1-NC_TRACE_SILK"; UniqueID = "\YSCXOXPC" ("\YSCXOXPC")
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=RXD0 New Net Name=TXD_RXD_P
+Change Net Name : Old Net Name=RXD New Net Name=RXD_TXD_N
+Change Net Name : Old Net Name=TXD0 New Net Name=TXD_RXD_N
+Change Net Name : Old Net Name=TXD New Net Name=RXD_TXD_P
+Change Net Name : Old Net Name=XI New Net Name=XI-XO_N
+Change Net Name : Old Net Name=XO New Net Name=XI-XO_P
+Added Pin To Net: NetName=USB_2.0_N Pin=U1E-6
+Added Net: Name=USB_2.0_N
+Added Pin To Net: NetName=USB_2.0_P Pin=U1E-5
+Added Net: Name=USB_2.0_P
+Added Differential Pair: Name=RXD_TXD
+Added Differential Pair: Name=TXD_RXD
+Added Differential Pair: Name=USB_2.0
+Added Differential Pair: Name=XI-XO
+Added Member To Class: ClassName=R1E_Nets Member=Wire RXD_TXD_N
+Added Member To Class: ClassName=U1E_Nets Member=Wire RXD_TXD_N
+Added Member To Class: ClassName=R2E_Nets Member=Wire RXD_TXD_P
+Added Member To Class: ClassName=U1E_Nets Member=Wire RXD_TXD_P
+Added Member To Class: ClassName=R1E_Nets Member=Wire TXD_RXD_N
+Added Member To Class: ClassName=R2E_Nets Member=Wire TXD_RXD_P
+Added Member To Class: ClassName=U1E_Nets Member=Wire USB_2.0_N
+Added Member To Class: ClassName=U1E_Nets Member=Wire USB_2.0_P
+Added Member To Class: ClassName=C3E_Nets Member=Wire XI-XO_N
+Added Member To Class: ClassName=U1E_Nets Member=Wire XI-XO_N
+Added Member To Class: ClassName=Y1E_Nets Member=Wire XI-XO_N
+Added Member To Class: ClassName=C5E_Nets Member=Wire XI-XO_P
+Added Member To Class: ClassName=U1E_Nets Member=Wire XI-XO_P
+Added Member To Class: ClassName=Y1E_Nets Member=Wire XI-XO_P
+Added Class: Name=USB

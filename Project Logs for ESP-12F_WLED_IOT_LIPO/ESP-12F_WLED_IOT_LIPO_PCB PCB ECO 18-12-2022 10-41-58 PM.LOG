@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=GPIO0 Pin=IC1-3
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=12K
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=12K
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=12K
+Change Component Comment : Designator=R12 Old Comment=10K New Comment=12K
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=12K
+Added Component: Designator=D?(DO214AC SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/SS19-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/on-semiconductor/SS14/SS14CT-ND/965729"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "200µA @ 40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "19-09-2022 01:46:16 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature - Junction"; Value = "-65°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1885"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SMA (DO-214AC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SS14CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "500mV @ 1A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=D?-1
+Added Pin To Net: NetName=EN Pin=IC1-3
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Added Pin To Net: NetName=GPIO2 Pin=Q1-2
+Added Pin To Net: NetName=GPIO2 Pin=R1-1
+Added Pin To Net: NetName=LED_DATA_OUT Pin=J2A-2
+Added Pin To Net: NetName=LED_DATA_OUT Pin=J2A-2
+Added Pin To Net: NetName=LED_DATA_OUT Pin=Q1-3
+Added Pin To Net: NetName=LED_DATA_OUT Pin=R2-1
+Added Net: Name=LED_DATA_OUT
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R2-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=6_ESP12_F Member=Component D? 1N4007 SMD
+Added Member To Class: ClassName=Signal Member=Wire ADC
+Added Member To Class: ClassName=Signal Member=Wire EN
+Added Member To Class: ClassName=Signal Member=Wire GPIO0
+Added Member To Class: ClassName=Signal Member=Wire GPIO2
+Added Member To Class: ClassName=Signal Member=Wire GPIO4
+Added Member To Class: ClassName=Signal Member=Wire GPIO5
+Added Member To Class: ClassName=Signal Member=Wire GPIO6
+Added Member To Class: ClassName=Signal Member=Wire GPIO7
+Added Member To Class: ClassName=Signal Member=Wire GPIO8
+Added Member To Class: ClassName=Signal Member=Wire GPIO9
+Added Member To Class: ClassName=Signal Member=Wire GPIO10
+Added Member To Class: ClassName=Signal Member=Wire GPIO11
+Added Member To Class: ClassName=Signal Member=Wire GPIO12
+Added Member To Class: ClassName=Signal Member=Wire GPIO13
+Added Member To Class: ClassName=Signal Member=Wire GPIO14
+Added Member To Class: ClassName=Signal Member=Wire GPIO15
+Added Member To Class: ClassName=Signal Member=Wire GPIO16
+Added Member To Class: ClassName=Signal Member=Wire nRST

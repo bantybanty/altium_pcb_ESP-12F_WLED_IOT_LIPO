@@ -1,0 +1,253 @@
+Removed Pin From Net: NetName=GND Pin=J1A-1
+Removed Pin From Net: NetName=SupplyIN Pin=J1A-2
+Removed Pin From Net: NetName=GND Pin=J1I-4
+Removed Pin From Net: NetName=TXD_RXD_N Pin=U1H-2
+Removed Pin From Net: NetName=TXD_RXD_P Pin=U1H-5
+Removed Pin From Net: NetName=GPIO2 Pin=U1H-9
+Removed Pin From Net: NetName=GPIO0 Pin=U1H-12
+Removed Member From Class: ClassName=8_LevelShifter Member=JP1H
+Removed Member From Class: ClassName=8_LevelShifter Member=JP2H
+Removed Member From Class: ClassName=Signal Member=CLOCK_TTL
+Removed Member From Class: ClassName=Signal Member=DATA_TTL
+Removed Member From Class: ClassName=Signal Member=GPIO0_LED_TTL
+Removed Member From Class: ClassName=Signal Member=GPIO2_LED_TTL
+Removed Member From Class: ClassName=Signal Member=LED_CLOCK_OUT
+Removed Member From Class: ClassName=Signal Member=LED_DATA_OUT
+Removed Member From Class: ClassName=Signal Member=RX_LED_TTL
+Removed Member From Class: ClassName=Signal Member=TX_LED_TTL
+Change Component Footprint: Designator=D1F Old Footprint=DO214AA SMB New Footprint=DO214AC SMA
+Change Component Footprint: Designator=J1I Old Footprint=TE 282834-4 New Footprint=TE 282834-3
+Change Component Comment : Designator=J1I Old Comment=282834-4 New Comment=282834-3
+Change Component Comment : Designator=D1F Old Comment=SS34B-HF New Comment=SS34-HF
+Change component parameters: Designator = "D1F" ("D1F"); Footprint = "DO214AA SMB"; UniqueID = "\LXIQVQBH" ("\LXIQVQBH")
+Change component parameters (AddParameter): Name = "Capacitance @ Vr, F"; Value = "450pF @ 4V, 1MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.comchiptech.com/admin/files/product/20190514101641.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/comchip-technology/SS34-HF/10279693"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Average Rectified (Io)"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current - Reverse Leakage @ Vr"; Value = "500 µA @ 40 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diode Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "01-01-2023 08:55:34 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Comchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature - Junction"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "DO-214AC, SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "SS34-HF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "2138"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Speed"; Value = "Fast Recovery =< 500ns, > 200mA (Io)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Device Package"; Value = "DO-214AC (SMA)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "641-2115-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - DC Reverse (Vr) (Max)"; Value = "40 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Forward (Vf) (Max) @ If"; Value = "550 mV @ 3 A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1I" ("J1I"); Footprint = "TE 282834-4"; UniqueID = "\YDHZDJGO" ("\YDHZDJGO")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/282834-3/A98334-ND/1153264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "15-01-2020 04:15:50 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "282834-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "2.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A98334-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge"; Value = "16-30 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Component: Designator=C3H(C-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0603C104J4RAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0603C104J4RAC/KEMET/view-part/1763758/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(JST B2B-PH-K)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.jst-mfg.com/product/pdf/eng/ePH.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/jst-sales-america-inc/B2B-PH-K-S-LF-SN/455-1704-ND/926611"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Post"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Mating"; Value = "0.130" (3.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Length - Post"; Value = "0.134" (3.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Detent Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Height"; Value = "0.236" (6.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA66), Nylon 6/6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "03-01-2020 11:40:58 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Overall Contact Length"; Value = "0.333" (8.45mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-PH-K-S(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch - Mating"; Value = "0.079" (2.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "PH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shrouding"; Value = "Shrouded - 4 Wall"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Board to Cable/Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "455-1704-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Press-Fit, Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=R3H(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4H(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5H(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U2H(ON SEMI SC70-5  419AC-01)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.onsemi.com/pub/Collateral/NC7SZ125-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/on-semiconductor/NC7SZ125P5X/NC7SZ125P5XTR-ND/673366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output High, Low"; Value = "32mA, 32mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "5-TSSOP, SC-70-5, SOT-353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "09-12-2019 01:20:32 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Buffer, Non-Inverting"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bits per Element"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "3-State"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "5-TSSOP, SC-70-5, SOT-353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "NC7SZ125P5X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "7SZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "SC-70-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "NC7SZ125P5XTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "1.65V ~ 5.5V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3H-1
+Added Pin To Net: NetName=VCC Pin=C3H-2
+Added Pin To Net: NetName=SupplyIN Pin=J1A-1
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=GND Pin=J1I-3
+Added Pin To Net: NetName=TXD_RXD_P Pin=U1H-2
+Added Pin To Net: NetName=TXD_RXD_N Pin=U1H-5
+Added Pin To Net: NetName=GPIO13 Pin=U1H-9
+Added Pin To Net: NetName=GPIO14 Pin=U1H-12
+Added Pin To Net: NetName=GND Pin=U2H-1
+Added Pin To Net: NetName=GND Pin=U2H-3
+Added Pin To Net: NetName=VCC Pin=U2H-5
+Change Net Name : Old Net Name=LED_DATA_OUT New Net Name=LED_OUT_1
+Change Net Color : Old Net Color=Red New Net Color=Black
+Added Pin To Net: NetName=ESP8266_DMA_TTL Pin=R1H-1
+Added Pin To Net: NetName=ESP8266_DMA_TTL Pin=U1H-6
+Added Net: Name=ESP8266_DMA_TTL
+Added Pin To Net: NetName=ESP8266_SPI_CLOCK_TTL Pin=R5H-1
+Added Pin To Net: NetName=ESP8266_SPI_CLOCK_TTL Pin=U1H-11
+Added Net: Name=ESP8266_SPI_CLOCK_TTL
+Added Pin To Net: NetName=ESP8266_SPI_DATA_TTL Pin=R4H-1
+Added Pin To Net: NetName=ESP8266_SPI_DATA_TTL Pin=U1H-8
+Added Net: Name=ESP8266_SPI_DATA_TTL
+Added Pin To Net: NetName=ESP8266_UART0_TTL Pin=R2H-1
+Added Pin To Net: NetName=ESP8266_UART0_TTL Pin=U1H-3
+Added Net: Name=ESP8266_UART0_TTL
+Added Pin To Net: NetName=ESP8266_UART1_TTL Pin=R3H-1
+Added Pin To Net: NetName=ESP8266_UART1_TTL Pin=U2H-4
+Added Net: Name=ESP8266_UART1_TTL
+Added Pin To Net: NetName=GPIO02 Pin=U2H-2
+Added Net: Name=GPIO02
+Added Pin To Net: NetName=LED_OUT_2_C Pin=J2I-2
+Added Pin To Net: NetName=LED_OUT_2_C Pin=R3H-2
+Added Net: Name=LED_OUT_2_C
+Added Pin To Net: NetName=LED_OUT_2_D Pin=J2I-1
+Added Pin To Net: NetName=LED_OUT_2_D Pin=R2H-2
+Added Net: Name=LED_OUT_2_D
+Added Pin To Net: NetName=LED_OUT_3_C Pin=J?-2
+Added Pin To Net: NetName=LED_OUT_3_C Pin=R5H-2
+Added Net: Name=LED_OUT_3_C
+Added Pin To Net: NetName=LED_OUT_3_D Pin=J?-1
+Added Pin To Net: NetName=LED_OUT_3_D Pin=R4H-2
+Added Net: Name=LED_OUT_3_D
+Added Member To Class: ClassName=8_LevelShifter Member=Component C3H 0.1uF
+Added Member To Class: ClassName=9_Connectors & IO Member=Component J? B2B-PH-K-S(LF)(SN)
+Added Member To Class: ClassName=8_LevelShifter Member=Component R3H 33R
+Added Member To Class: ClassName=8_LevelShifter Member=Component R4H 33R
+Added Member To Class: ClassName=8_LevelShifter Member=Component R5H 33R
+Added Member To Class: ClassName=8_LevelShifter Member=Component U2H NC7SZ125P5X
+Added Member To Class: ClassName=Signal Member=Wire ESP8266_DMA_TTL
+Added Member To Class: ClassName=Signal Member=Wire ESP8266_SPI_CLOCK_TTL
+Added Member To Class: ClassName=Signal Member=Wire ESP8266_SPI_DATA_TTL
+Added Member To Class: ClassName=Signal Member=Wire ESP8266_UART0_TTL
+Added Member To Class: ClassName=Signal Member=Wire ESP8266_UART1_TTL
+Added Member To Class: ClassName=Signal Member=Wire IO4
+Added Member To Class: ClassName=Signal Member=Wire LED_OUT_1
+Added Member To Class: ClassName=Signal Member=Wire LED_OUT_2_C
+Added Member To Class: ClassName=Signal Member=Wire LED_OUT_2_D
+Added Member To Class: ClassName=Signal Member=Wire LED_OUT_3_C
+Added Member To Class: ClassName=Signal Member=Wire LED_OUT_3_D
+Added Member To Class: ClassName=Signal Member=Wire NetC6G_2
+Added Member To Class: ClassName=Signal Member=Wire NetQ1G_1
+Added Member To Class: ClassName=Signal Member=Wire NetQ2G_1

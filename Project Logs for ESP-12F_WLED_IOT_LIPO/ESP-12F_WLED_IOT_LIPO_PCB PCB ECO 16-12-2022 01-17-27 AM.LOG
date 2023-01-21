@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=J1A-1
+Removed Pin From Net: NetName=SupplyIN Pin=J1A-2
+Removed Pin From Net: NetName=GND Pin=J2A-1
+Removed Pin From Net: NetName=LED-Out Pin=J2A-2
+Added Pin To Net: NetName=SupplyIN Pin=J1A-1
+Added Pin To Net: NetName=GND Pin=J1A-2
+Added Pin To Net: NetName=LED-Out Pin=J2A-1
+Added Pin To Net: NetName=GND Pin=J2A-2

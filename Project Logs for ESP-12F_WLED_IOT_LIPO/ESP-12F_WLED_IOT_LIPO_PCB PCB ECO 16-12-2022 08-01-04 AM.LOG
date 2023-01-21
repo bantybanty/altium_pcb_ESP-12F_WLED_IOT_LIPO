@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LDO+5V+3.3V Pin=F2D-2
+Change Net Name : Old Net Name=LDO+5V+3.3V New Net Name=LDO-OUT-1117
+Change Net Name : Old Net Name=LDO-OUT-1117 New Net Name=LDO-TO-1117
+Change Net Name : Old Net Name=NetC1D_2 New Net Name=ADJ/BYP
+Change Net Name : Old Net Name=NetC6D_2 New Net Name=Adjust
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=F2D-2
+Added Pin To Net: NetName=LDO+5V+3.3V Pin=JP1B-1
+Added Net: Name=LDO+5V+3.3V
+Added Member To Class: ClassName=Power Member=Wire ADJ/BYP
+Added Member To Class: ClassName=Power Member=Wire Adjust
+Added Member To Class: ClassName=Power Member=Wire LDO-TO-1117

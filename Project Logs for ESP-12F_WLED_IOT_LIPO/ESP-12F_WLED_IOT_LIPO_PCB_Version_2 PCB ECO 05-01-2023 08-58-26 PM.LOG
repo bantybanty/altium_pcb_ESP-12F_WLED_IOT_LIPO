@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=LED_OUT_1 Pin=J1I-2
+Removed Pin From Net: NetName=GND Pin=J1I-3
+Removed Pin From Net: NetName=LED_OUT_2_D Pin=J2I-1
+Removed Pin From Net: NetName=LED_OUT_2_C Pin=J2I-2
+Change Component DesignItemId : Designator=J2I Old DesignItemId=282834-2 New DesignItemId=282834-3
+Change Component DesignItemId : Designator=J1I Old DesignItemId=282834-3 New DesignItemId=282837-2
+Change Component Footprint: Designator=J2I Old Footprint=TE 282834-2 New Footprint=TE 282834-3
+Change Component Footprint: Designator=J1I Old Footprint=TE 282834-3 New Footprint=TE 282837-2
+Change Component Comment : Designator=J2I Old Comment=282834-2 New Comment=282834-3
+Change Component Comment : Designator=J1I Old Comment=282834-3 New Comment=282837-2
+Change Component Description : Designator=J2I Old Description=TERM BLK 2P SIDE ENT 2.54MM PCB New Description=TERM BLK 3P SIDE ENT 2.54MM PCB
+Change Component Description : Designator=J1I Old Description=TERM BLK 3P SIDE ENT 2.54MM PCB New Description=TERM BLK 2P SIDE ENT 5.08MM PCB
+Change component parameters: Designator = "J1I" ("J1I"); Footprint = "TE 282834-3"; UniqueID = "\YDHZDJGO" ("\YDHZDJGO")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282837&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/282837-2/2187973"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "13.5 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "Interlocking (Side)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "21-06-2022 03:00:23 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "282837-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.200" (5.08mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A113320-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge"; Value = "16-28 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2I" ("J2I"); Footprint = "TE 282834-2"; UniqueID = "\WOXBYUUX" ("\WOXBYUUX")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282834&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/te-connectivity-amp-connectors/282834-3/A98334-ND/1153264"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "15-01-2020 04:15:50 AM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Orientation"; Value = "Horizontal with Board"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "282834-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "2.01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "Buchanan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A98334-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "150V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge"; Value = "16-30 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Termination"; Value = "Screw - Rising Cage Clamp"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1I-2
+Added Pin To Net: NetName=LED_OUT_1 Pin=J2I-1
+Added Pin To Net: NetName=LED_OUT_2_D Pin=J2I-2
+Added Pin To Net: NetName=LED_OUT_2_C Pin=J2I-3

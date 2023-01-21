@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=C5D_Nets Member=VDDTP4056
+Removed Member From Class: ClassName=D1A_Nets Member=VDDTP4056
+Removed Member From Class: ClassName=U2D_Nets Member=VDDTP4056
+Added Member To Class: ClassName=5_USB-UART Member=Component C? 22pF
+Added Member To Class: ClassName=F1D_Nets Member=Wire +3.3V
+Added Member To Class: ClassName=Power Member=Wire +3.3V
+Added Member To Class: ClassName=C5D_Nets Member=Wire VCC
+Added Member To Class: ClassName=D1A_Nets Member=Wire VCC
+Added Member To Class: ClassName=JP1B_Nets Member=Wire VCC
+Added Member To Class: ClassName=U2D_Nets Member=Wire VCC

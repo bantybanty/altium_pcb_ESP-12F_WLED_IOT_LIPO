@@ -1,0 +1,14 @@
+Added Component: Designator=Q1D(FS8205A TSSOP-8)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FS8205A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1D-2
+Added Pin To Net: NetName=GND Pin=Q1D-3
+Added Pin To Net: NetName=OC Pin=Q1D-4
+Added Pin To Net: NetName=OD Pin=Q1D-5
+Added Pin To Net: NetName=VBAT- Pin=Q1D-6
+Added Pin To Net: NetName=VBAT- Pin=Q1D-7
+Added Member To Class: ClassName=4_Protection Member=Component Q1D !value

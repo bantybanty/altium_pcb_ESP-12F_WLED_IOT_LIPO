@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=C3H-1
+Added Member To Class: ClassName=8_LevelShifter Member=Component C3H 0.1uF
+Added Rule: Name=Schematic Supply Nets_20

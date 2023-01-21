@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Power Member=Adjust
+Added Member To Class: ClassName=Power Member=Wire +3V3
+Added Member To Class: ClassName=Signal Member=Wire Adjust

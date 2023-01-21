@@ -1,0 +1,22 @@
+Added Component: Designator=JP1D(SMT-JUMPER_3_1-NC_PASTE_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Added Component: Designator=JP2D(SMT-JUMPER_3_1-NC_PASTE_SILK)
+Add component (AddParameter): Name = "DeviceName"; Value = "_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "JUMPER-SMT_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Jumpers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMT-JUMPER_3_1-NC_PASTE_SILK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SMT-JUMPER_3_1-NC_PASTE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1D_1 Pin=F1D-1
+Added Pin To Net: NetName=NetF1D_1 Pin=JP2D-2
+Added Net: Name=NetF1D_1
+Added Class: Name=JP1D_Nets
+Added Class: Name=JP2D_Nets
+Added Member To Class: ClassName=4_LDO Member=Component JP1D JUMPER-SMT_3_1-NC_PASTE_SILK
+Added Member To Class: ClassName=4_LDO Member=Component JP2D JUMPER-SMT_3_1-NC_PASTE_SILK
+Added Member To Class: ClassName=F1D_Nets Member=Wire NetF1D_1

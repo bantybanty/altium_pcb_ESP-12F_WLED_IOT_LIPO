@@ -1,0 +1,72 @@
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=C5D-2
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=JP1A-1
+Added Pin To Net: NetName=LDO-OUT-1117 Pin=U2D-3
+Added Net: Name=LDO-OUT-1117
+Added Class: Name=B1C_Nets
+Added Class: Name=C1A_Nets
+Added Class: Name=C1C_Nets
+Added Class: Name=C1D_Nets
+Added Class: Name=C1E_Nets
+Added Class: Name=C2A_Nets
+Added Class: Name=C2D_Nets
+Added Class: Name=C2E_Nets
+Added Class: Name=C3A_Nets
+Added Class: Name=C3D_Nets
+Added Class: Name=C3E_Nets
+Added Class: Name=C4A_Nets
+Added Class: Name=C4D_Nets
+Added Class: Name=C4E_Nets
+Added Class: Name=C5D_Nets
+Added Class: Name=C5E_Nets
+Added Class: Name=C6D_Nets
+Added Class: Name=D1A_Nets
+Added Class: Name=D1B_Nets
+Added Class: Name=D2A_Nets
+Added Class: Name=D2B_Nets
+Added Class: Name=D3A_Nets
+Added Class: Name=F1A_Nets
+Added Class: Name=F1B_Nets
+Added Class: Name=F1D_Nets
+Added Class: Name=F1E_Nets
+Added Class: Name=F2A_Nets
+Added Class: Name=F2D_Nets
+Added Class: Name=GND
+Added Class: Name=H1A_Nets
+Added Class: Name=H2A_Nets
+Added Class: Name=H3A_Nets
+Added Class: Name=H4A_Nets
+Added Class: Name=J1A_Nets
+Added Class: Name=J1E_Nets
+Added Class: Name=J2A_Nets
+Added Class: Name=JP1A_Nets
+Added Class: Name=JP1B_Nets
+Added Class: Name=Q1A_Nets
+Added Class: Name=Q1C_Nets
+Added Class: Name=Q1E_Nets
+Added Class: Name=Q2E_Nets
+Added Class: Name=R1A_Nets
+Added Class: Name=R1B_Nets
+Added Class: Name=R1C_Nets
+Added Class: Name=R1D_Nets
+Added Class: Name=R1E_Nets
+Added Class: Name=R2B_Nets
+Added Class: Name=R2C_Nets
+Added Class: Name=R2D_Nets
+Added Class: Name=R2E_Nets
+Added Class: Name=R3B_Nets
+Added Class: Name=R3D_Nets
+Added Class: Name=R3E_Nets
+Added Class: Name=R4D_Nets
+Added Class: Name=R4E_Nets
+Added Class: Name=R5E_Nets
+Added Class: Name=R6E_Nets
+Added Class: Name=U1B_Nets
+Added Class: Name=U1C_Nets
+Added Class: Name=U1D_Nets
+Added Class: Name=U1E_Nets
+Added Class: Name=U2D_Nets
+Added Class: Name=Y1E_Nets
+Added Member To Class: ClassName=Power Member=Wire LED-OUT
+Added Member To Class: ClassName=Power Member=Wire NetF1A_2
+Added Member To Class: ClassName=Power Member=Wire SupplyIN
+Added Member To Class: ClassName=Power Member=Wire VIN

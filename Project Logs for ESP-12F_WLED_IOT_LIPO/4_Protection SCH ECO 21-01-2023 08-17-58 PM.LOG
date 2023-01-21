@@ -1,0 +1,5 @@
+Change Component Parameter Library Name in C1D Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in Q1D Old=Custom-IC.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R1D Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R2D Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in U1D Old=Custom-IC.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib

@@ -1,0 +1,7 @@
+Change Component Parameter Library Name in D1C Old=Footprint-Lib-PhilsLab.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in D2C Old=Footprint-Lib-PhilsLab.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in JP1C Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R1C Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R2C Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R3C Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in U1C Old=Custom-IC.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib

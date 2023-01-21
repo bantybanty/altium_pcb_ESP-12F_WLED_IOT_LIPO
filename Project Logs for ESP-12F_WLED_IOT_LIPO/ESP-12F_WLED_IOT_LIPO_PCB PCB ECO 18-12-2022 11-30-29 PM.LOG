@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GPIO2 Pin=Q1F-2
+Removed Pin From Net: NetName=GPIO2 Pin=R12F-1
+Added Component: Designator=JP1F(Solder_Pad_2_Pin_NC_Small)
+Add Pin To Net: Unknown Pin: Pin J2A-3
+Added Pin To Net: NetName=GPIO2 Pin=JP1F-1
+Added Pin To Net: NetName=LED_DATA_IN Pin=JP1F-2
+Added Pin To Net: NetName=LED_DATA_IN Pin=Q1F-2
+Added Pin To Net: NetName=LED_DATA_IN Pin=R12F-1
+Added Net: Name=LED_DATA_IN
+Added Member To Class: ClassName=6_ESP12_F Member=Component JP1F Solder Pad

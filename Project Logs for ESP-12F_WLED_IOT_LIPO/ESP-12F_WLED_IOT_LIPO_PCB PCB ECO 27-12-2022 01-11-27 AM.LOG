@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1C
+Added Pin To Net: NetName=VBAT- Pin=J1C-1
+Added Pin To Net: NetName=VBAT+ Pin=J1C-2
+Added Member To Class: ClassName=3_Protection Member=Component J1C B2B-PH-K-S(LF)(SN)

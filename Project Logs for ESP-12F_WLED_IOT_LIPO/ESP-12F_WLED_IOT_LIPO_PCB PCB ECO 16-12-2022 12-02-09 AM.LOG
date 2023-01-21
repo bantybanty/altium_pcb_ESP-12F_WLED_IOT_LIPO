@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VBAT+ Pin=J1C-1
+Removed Pin From Net: NetName=VBAT- Pin=J1C-2
+Removed Member From Class: ClassName=3_Protection Member=J1C
+Added Component: Designator=B1C(KEYSTONE 2462)
+Add component (AddParameter): Name = "Battery Cell Size"; Value = "AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Battery Type, Function"; Value = "Cylindrical, Holder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://keyelco.com/userAssets/file/M65p28.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "//digikey.com/product-detail/en/keystone-electronics/2462/36-2462-ND/303811"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Above Board"; Value = "0.630" (16.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "03-12-2019 12:18:49 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "PCB, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Cells"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2462"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style"; Value = "Holder (Open)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "36-2462-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "PC Pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT+ Pin=B1C-1
+Added Pin To Net: NetName=VBAT- Pin=B1C-2
+Change Class Name : Old Net Name=J1C_Nets New Net Name=B1C_Nets
+Added Member To Class: ClassName=3_Protection Member=Component B1C 2462

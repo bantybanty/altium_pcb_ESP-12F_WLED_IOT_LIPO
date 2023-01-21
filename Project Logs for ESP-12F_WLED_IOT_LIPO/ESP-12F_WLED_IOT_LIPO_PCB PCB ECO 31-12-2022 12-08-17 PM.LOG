@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=LED-Out Pin=C1I-1
+Removed Pin From Net: NetName=GND Pin=C1I-2
+Removed Member From Class: ClassName=9_Connectors & IO Member=C1I
+Added Member To Class: ClassName=6_ESP12_F Member=Component C2F 100uF
+Added Member To Class: ClassName=6_ESP12_F Member=Component C3F 1uf
+Added Member To Class: ClassName=6_ESP12_F Member=Component C4F 0.1uf
+Added Member To Class: ClassName=4_LDO Member=Component C5D 10uF
+Added Member To Class: ClassName=4_LDO Member=Component C6D 10uF
+Added Member To Class: ClassName=4_LDO Member=Component C7D 10uF
+Added Member To Class: ClassName=1_Power Member=Component F2A 1.5A
+Added Member To Class: ClassName=1_Power Member=Component R2A 100k
+Added Member To Class: ClassName=4_LDO Member=Component R4D 82K
+Added Member To Class: ClassName=4_LDO Member=Component R5D 50K

@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetD1A_1 Pin=D1A-1
+Added Pin To Net: NetName=NetD1A_1 Pin=JP1A-2
+Added Net: Name=NetD1A_1
+Added Pin To Net: NetName=NetF1A_2 Pin=F1A-2
+Added Pin To Net: NetName=NetF1A_2 Pin=JP1A-3
+Added Net: Name=NetF1A_2
+Added Member To Class: ClassName=JP1A_Nets Member=Wire LDO-IN-1117
+Added Member To Class: ClassName=D1A_Nets Member=Wire NetD1A_1
+Added Member To Class: ClassName=JP1A_Nets Member=Wire NetD1A_1
+Added Member To Class: ClassName=F1A_Nets Member=Wire NetF1A_2
+Added Member To Class: ClassName=JP1A_Nets Member=Wire NetF1A_2

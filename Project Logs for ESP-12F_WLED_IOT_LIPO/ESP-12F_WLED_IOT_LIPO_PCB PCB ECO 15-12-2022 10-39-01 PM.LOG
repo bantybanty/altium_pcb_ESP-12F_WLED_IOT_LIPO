@@ -1,0 +1,44 @@
+Added Component: Designator=R5E(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6E(R-0603)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623703-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2-1623703-0/TE%20Connectivity/view-part/2213192/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_2.0_P Pin=J1E-A6
+Added Pin To Net: NetName=USB_2.0_N Pin=J1E-A7
+Added Pin To Net: NetName=USB_2.0_P Pin=J1E-B6
+Added Pin To Net: NetName=USB_2.0_N Pin=J1E-B7
+Added Pin To Net: NetName=GND Pin=R5E-2
+Added Pin To Net: NetName=GND Pin=R6E-2
+Added Pin To Net: NetName=NetJ1E_A5 Pin=J1E-A5
+Added Pin To Net: NetName=NetJ1E_A5 Pin=R6E-1
+Added Net: Name=NetJ1E_A5
+Added Pin To Net: NetName=NetJ1E_B5 Pin=J1E-B5
+Added Pin To Net: NetName=NetJ1E_B5 Pin=R5E-1
+Added Net: Name=NetJ1E_B5
+Added Class: Name=R5E_Nets
+Added Class: Name=R6E_Nets
+Added Member To Class: ClassName=5_USB-UART Member=Component R5E 5.1K
+Added Member To Class: ClassName=5_USB-UART Member=Component R6E 5.1K
+Added Member To Class: ClassName=J1E_Nets Member=Wire NetJ1E_A5
+Added Member To Class: ClassName=J1E_Nets Member=Wire NetJ1E_B5
+Added Member To Class: ClassName=J1E_Nets Member=Wire USB_2.0_N
+Added Member To Class: ClassName=J1E_Nets Member=Wire USB_2.0_P

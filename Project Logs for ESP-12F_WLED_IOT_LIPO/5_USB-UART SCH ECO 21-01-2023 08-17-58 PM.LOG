@@ -1,0 +1,20 @@
+Change Component Parameter Library Name in C1G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C2G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C3G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C4G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C5G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C6G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in C7G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in D1G Old=Altium Content Vault New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in FB1G Old=Altium Content Vault New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in J1G Old=Footprint-Lib-PhilsLab.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in Q1G Old=Altium Content Vault New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in Q2G Old=Altium Content Vault New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R1G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R2G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R3G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R4G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R5G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in R6G Old=Custom.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in U1G Old=Custom-IC.IntLib New=ESP-12F_WLED_IOT_LIPO.IntLib
+Change Component Parameter Library Name in Y1G Old=Celestial Altium Library - altium_library.DbLib New=ESP-12F_WLED_IOT_LIPO.IntLib

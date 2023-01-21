@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED-Out Pin=F2A-2
+Remove Class Member: Failed to remove class member
+Added Pin To Net: NetName=LED_OUT Pin=F2A-2
+Added Net: Name=LED_OUT
+Added Member To Class: ClassName=Power Member=Wire +3V3
+Added Member To Class: ClassName=HighPower Member=Wire LED_OUT
